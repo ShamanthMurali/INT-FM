@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T17:24:10.427Z" agent="5.0 (X11)" etag="pKUHtHvmYMH1RZLg-tmX" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T17:28:57.530Z" agent="5.0 (X11)" etag="eKGgL54c5bASx6aYczmp" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
     <mxGraphModel dx="1708" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -380,6 +380,9 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-137" value="Current liabilities" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="1000" y="490" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-147" target="QdUkT4JPRl72sfMGvTyI-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-147" value="Stock turnover" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="640" y="570" width="120" height="40" as="geometry">
             <mxRectangle x="560" y="570" width="280" height="110" as="alternateBounds" />
@@ -390,6 +393,9 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-149" value="`\text{Stock turnover}=\text{COGS}/\text{Avg Stock}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-147">
           <mxGeometry x="10" y="50" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-150" target="QdUkT4JPRl72sfMGvTyI-160">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-150" value="Debtors turnover" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="800" y="570" width="120" height="40" as="geometry">
@@ -402,6 +408,9 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-152" value="`\text{Debtors turnover}=\text{Credit sales}/\text{Avg Debtors + B/R}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-150">
           <mxGeometry x="10" y="50" width="300" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-153" target="QdUkT4JPRl72sfMGvTyI-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-153" value="Creditors turnover" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1000" y="570" width="120" height="40" as="geometry">
             <mxRectangle x="1000" y="570" width="340" height="110" as="alternateBounds" />
@@ -412,6 +421,39 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-155" value="`\text{Creditors turnover}=\text{Credit purchages}/\text{Avg Creditors + B/P}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-153">
           <mxGeometry x="10" y="50" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-156" value="Average holding&#xa;period" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="640" y="630" width="120" height="40" as="geometry">
+            <mxRectangle x="640" y="630" width="280" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-157" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-156">
+          <mxGeometry y="40" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-158" value="`\text{}=\text{Avg stock}/\text{COGS}*\text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-156">
+          <mxGeometry x="10" y="50" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-160" value="Average Holding&#xa;period of collection" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="800" y="630" width="120" height="40" as="geometry">
+            <mxRectangle x="800" y="630" width="290" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-161" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-160">
+          <mxGeometry y="40" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-162" value="`\text{}=\text{Avg Debtors + B/R}/\text{Credit sales}*\text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-160">
+          <mxGeometry x="10" y="50" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-164" value="Average holding&#xa;period" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1000" y="630" width="120" height="40" as="geometry">
+            <mxRectangle x="1000" y="630" width="280" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-164">
+          <mxGeometry y="40" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-166" value="`\text{}=\text{Avg Credit + B/P}/\text{Credit sales}*\text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-164">
+          <mxGeometry x="10" y="50" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
