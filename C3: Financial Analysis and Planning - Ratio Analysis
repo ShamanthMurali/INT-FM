@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T19:31:26.334Z" agent="5.0 (X11)" etag="cxqryoElUy53PVg7AI3W" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T19:32:24.411Z" agent="5.0 (X11)" etag="JQFnwmmeq6paIUju5CqD" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
     <mxGraphModel dx="1887" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -37,14 +37,17 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-6" target="QdUkT4JPRl72sfMGvTyI-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-6" target="QdUkT4JPRl72sfMGvTyI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-6" value="Mixed ratios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-10" value="`(PL)/(PL(\text{Sales}))*100`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-12" value="`(PL)/(BS)`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="160" width="40" height="40" as="geometry" />
+          <mxGeometry x="950" y="200" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-13" value="`(BS)/(BS)`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="160" width="40" height="40" as="geometry" />
@@ -56,7 +59,7 @@
           <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-16" value="&lt;div&gt;In&lt;/div&gt;&lt;div&gt;&lt;b&gt;Times&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="160" width="50" height="40" as="geometry" />
+          <mxGeometry x="870" y="200" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-17" target="QdUkT4JPRl72sfMGvTyI-25">
           <mxGeometry relative="1" as="geometry" />
