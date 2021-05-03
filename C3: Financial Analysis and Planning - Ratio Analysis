@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T19:44:21.588Z" agent="5.0 (X11)" etag="95M_mXmGVB20ExYts6ow" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T20:08:41.557Z" agent="5.0 (X11)" etag="gb76zjs826v58w6YVkop" version="14.6.9" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
-    <mxGraphModel dx="1958" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1483" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -493,14 +493,17 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-37" value="proprietary ratio " style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="70" y="640" width="120" height="40" as="geometry">
-            <mxRectangle x="70" y="640" width="310" height="110" as="alternateBounds" />
+            <mxRectangle x="70" y="640" width="310" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="QdUkT4JPRl72sfMGvTyI-37" vertex="1">
-          <mxGeometry y="40" width="310" height="70" as="geometry" />
+          <mxGeometry y="40" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-120" value="`\text{Proprietary ratio}=\text{proprietary funds}/\text{Assets}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="QdUkT4JPRl72sfMGvTyI-37" vertex="1">
           <mxGeometry x="10" y="50" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Me9QBT6MrRhAIDL_dXqv-1" value="SHF = FA + Net working capital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-37">
+          <mxGeometry x="10" y="110" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-35" value="Capital gearing ratio" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="70" y="580" width="120" height="40" as="geometry">
@@ -564,7 +567,7 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-103" value="`\text{Super quick ratio}=\text{Cash + marketable securities}/\text{current liabilities}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="QdUkT4JPRl72sfMGvTyI-29" vertex="1">
           <mxGeometry x="10" y="50" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-27" value="Quick ratios" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-27" value="Quick ratios&#xa;/liquid ratio&#xa;/acid test" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="70" y="340" width="120" height="40" as="geometry">
             <mxRectangle x="70" y="340" width="280" height="190" as="alternateBounds" />
           </mxGeometry>
