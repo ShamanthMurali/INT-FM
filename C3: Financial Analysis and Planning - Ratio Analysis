@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T17:30:02.793Z" agent="5.0 (X11)" etag="1tbf6wqdehiFw_G57O0y" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T17:31:03.480Z" agent="5.0 (X11)" etag="xtgd-93rs_W-HSOqSf-O" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
-    <mxGraphModel dx="1708" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1887" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-6" target="QdUkT4JPRl72sfMGvTyI-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="220" />
+              <mxPoint x="1180" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-6" value="Mixed ratios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="160" width="120" height="40" as="geometry" />
@@ -86,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-20" value="profitability ratios in relation to investments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="240" width="120" height="50" as="geometry" />
+          <mxGeometry x="1120" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-25" target="QdUkT4JPRl72sfMGvTyI-27">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-89" value="return on share &#xa;holders funds" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1200" y="370" width="120" height="40" as="geometry">
+          <mxGeometry x="1120" y="380" width="120" height="40" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -130,8 +135,8 @@
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-87" value="return on capital" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1200" y="310" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          <mxGeometry x="1120" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="1120" y="320" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-87">
@@ -375,7 +380,7 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-164">
           <mxGeometry y="40" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-166" value="`\text{}=\text{Avg Credit + B/P}/\text{Credit sales}*\text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-164">
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-166" value="`\text{}=\text{Avg Credit + B/P}/\text{Credit Purchases}*\text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-164">
           <mxGeometry x="10" y="50" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-160" value="Average Holding&#xa;period of collection" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
