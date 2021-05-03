@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T17:34:05.479Z" agent="5.0 (X11)" etag="EakWP_jHsgSVbfvJQ_hN" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T19:31:26.334Z" agent="5.0 (X11)" etag="cxqryoElUy53PVg7AI3W" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
     <mxGraphModel dx="1887" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -36,14 +36,6 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-6" target="QdUkT4JPRl72sfMGvTyI-19">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-6" target="QdUkT4JPRl72sfMGvTyI-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="830" y="220" />
-              <mxPoint x="1060" y="220" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-6" value="Mixed ratios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="160" width="120" height="40" as="geometry" />
@@ -91,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-20" value="profitability ratios in relation to investments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="250" width="120" height="50" as="geometry" />
+          <mxGeometry x="1090" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-25" target="QdUkT4JPRl72sfMGvTyI-27">
           <mxGeometry relative="1" as="geometry" />
@@ -127,20 +119,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-89" value="return on share &#xa;holders funds" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1000" y="380" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          <mxGeometry x="1090" y="380" width="120" height="40" as="geometry">
+            <mxRectangle x="1090" y="380" width="240" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-89">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+          <mxGeometry y="40" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-170" value="`\text{}=\text{EBIT}/\text{Avg. share holders funds}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-89">
+          <mxGeometry x="10" y="50" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-173" value="SHF = Share capital + Reserves and surplus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-89">
+          <mxGeometry x="10" y="110" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-87" value="return on capital" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1000" y="320" width="120" height="40" as="geometry">
-            <mxRectangle x="1120" y="320" width="200" height="200" as="alternateBounds" />
+          <mxGeometry x="1090" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="1090" y="320" width="240" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-87">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+          <mxGeometry y="40" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-169" value="`\text{}=\text{EBIT}/\text{Avg. Capital employeed}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-87">
+          <mxGeometry x="10" y="50" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-171" value="&lt;div&gt;Capital employed = Debt + Equity&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;=FA+LT Investments+Working Capital&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-87">
+          <mxGeometry x="10" y="115" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-69" target="QdUkT4JPRl72sfMGvTyI-131">
           <mxGeometry relative="1" as="geometry" />
@@ -212,7 +216,7 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-164" value="Average holding&#xa;period" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="880" y="630" width="120" height="40" as="geometry">
-            <mxRectangle x="1000" y="630" width="280" height="110" as="alternateBounds" />
+            <mxRectangle x="880" y="630" width="280" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-164">
@@ -459,6 +463,69 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-98" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Current liabilities&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creditors&lt;/div&gt;&lt;div&gt;bank OD&lt;/div&gt;&lt;div&gt;Bills payable&lt;br&gt;&lt;/div&gt;&lt;div&gt;o/s expenses&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-25">
           <mxGeometry x="150" y="110" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-179" target="QdUkT4JPRl72sfMGvTyI-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-179" value="EPS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1090" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-180" target="QdUkT4JPRl72sfMGvTyI-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-180" value="`=\text{Earnings for ESH}/\text{Number of ES}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="500" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-182" target="QdUkT4JPRl72sfMGvTyI-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-182" value="DPS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1090" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-184" target="QdUkT4JPRl72sfMGvTyI-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-184" value="`=\text{Equity dividend}/\text{Number of ES}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="635" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-187" target="QdUkT4JPRl72sfMGvTyI-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-187" value="`=\text{Equity dividend}/\text{Number of ES}*100`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="770" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-188" target="QdUkT4JPRl72sfMGvTyI-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-188" value="Dividend payout ratio" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1090" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-191" target="QdUkT4JPRl72sfMGvTyI-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-191" value="Retention ratio" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1090" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-193" value="&lt;div&gt;1-Dividend payout ratio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`(EPS-DPS)/(EPS)*100`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="900" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-195" target="QdUkT4JPRl72sfMGvTyI-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-195" value="&lt;div&gt;Balance sheet value per share&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;book value per share&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1050" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-196" value="`=\text{ESC+Reserves and surplus}/\text{Number of ES}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="1120" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-198" target="QdUkT4JPRl72sfMGvTyI-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-198" value="Price earning ratio (PE)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1200" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-199" value="`=\text{Market price per share(MPS)}/\text{EPS}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1032.5" y="1270" width="235" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
