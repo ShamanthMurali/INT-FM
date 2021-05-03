@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T17:10:18.012Z" agent="5.0 (X11)" etag="4x7fJFPgkNJhy5rtz1Fs" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T17:13:54.006Z" agent="5.0 (X11)" etag="0h224kXkcfR10WDmTNni" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
-    <mxGraphModel dx="1887" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1442" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,21 +137,13 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-87">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-72" value="fixed asset turnover" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="690" y="330" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-72">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-69" value="Capital &#xa;employed&#xa;turn over" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="850" y="330" width="120" height="50" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-69" value="Capital &#xa;employed&#xa;turn over" style="swimlane;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="850" y="330" width="200" height="200" as="geometry">
+            <mxRectangle x="850" y="330" width="120" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-69">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+          <mxGeometry y="50" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-59" value="selling&#xa;expense ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry">
@@ -340,6 +332,20 @@
               <mxPoint x="50" y="510" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-72" value="fixed asset turnover" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="690" y="330" width="120" height="40" as="geometry">
+            <mxRectangle x="690" y="330" width="280" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-72">
+          <mxGeometry y="40" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-129" value="`\text{FA t/o}=\text{Sales}/\text{Average FA}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-72">
+          <mxGeometry x="10" y="50" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-130" value="Average FA = (Opening FA + Closing FA)/2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-72">
+          <mxGeometry x="10" y="110" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
