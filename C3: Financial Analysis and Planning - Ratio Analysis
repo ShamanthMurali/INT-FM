@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T16:36:50.228Z" agent="5.0 (X11)" etag="U6LKwgnlb9j0vRYKi3te" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T16:41:11.538Z" agent="5.0 (X11)" etag="xtxzQuPNKaKmLr1AVtOR" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
     <mxGraphModel dx="1887" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -158,7 +158,7 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-50" value="Operating&#xa;profit ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="360" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="360" y="580" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-50">
@@ -222,11 +222,23 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-33" value="Debt-equity ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="70" y="520" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="70" y="520" width="280" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-33">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+          <mxGeometry y="40" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-111" value="`\text{Debt-Equity}=\text{Debt}/\text{Equity}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-33">
+          <mxGeometry x="10" y="50" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-115" value="`\text{Debt-Ratio}=\text{Debt}/\text{Debt + Equity}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-33">
+          <mxGeometry x="10" y="110" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-113" value="Debt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-33">
+          <mxGeometry x="10" y="170" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-114" value="Equity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-33">
+          <mxGeometry x="150" y="170" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-31" value="Stock working&#xa;capital ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="70" y="460" width="120" height="40" as="geometry">
