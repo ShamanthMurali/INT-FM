@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T16:19:55.323Z" agent="5.0 (X11)" etag="JlCowAGGDzNdgMBgrosU" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T16:20:55.678Z" agent="5.0 (X11)" etag="armWD7H1Sq4XyRbr12v1" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
     <mxGraphModel dx="1037" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -88,149 +88,56 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-25" target="QdUkT4JPRl72sfMGvTyI-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-25" value="Current ratios" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="70" y="280" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-25">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-27" target="QdUkT4JPRl72sfMGvTyI-29">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-27" value="Quick ratios" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="70" y="340" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-27">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-29" target="QdUkT4JPRl72sfMGvTyI-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-29" value="Super quick ratios" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="70" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-29">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-31" target="QdUkT4JPRl72sfMGvTyI-33">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-31" value="Stock working&#xa;capital ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="70" y="460" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-31">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-33" target="QdUkT4JPRl72sfMGvTyI-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-33" value="Debt-equity ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="70" y="520" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-33">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-35" target="QdUkT4JPRl72sfMGvTyI-37">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-35" value="Capital gearing ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="70" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-35">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-37" value="proprietary ratio " style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="70" y="640" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-37">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-47" target="QdUkT4JPRl72sfMGvTyI-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-47" value="Gross profit ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-47">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-50" value="Operating&#xa;profit ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="360" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-50">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-53" target="QdUkT4JPRl72sfMGvTyI-56" parent="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-53" value="operating ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="360" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-53">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-56" target="QdUkT4JPRl72sfMGvTyI-59" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-56" value="admin&#xa;expense ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="360" y="460" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-56">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-59" target="QdUkT4JPRl72sfMGvTyI-50">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-59" value="selling&#xa;expense ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="360" y="520" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-59">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-62" target="QdUkT4JPRl72sfMGvTyI-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-62" value="net profit ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="360" y="340" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-62">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-69" target="QdUkT4JPRl72sfMGvTyI-72" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-69" value="Capital &#xa;employed&#xa;turn over" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="570" y="310" width="120" height="50" as="geometry">
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-87" target="QdUkT4JPRl72sfMGvTyI-89" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-89" value="return on share &#xa;holders funds" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="810" y="370" width="120" height="40" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-69">
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-89">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-87" value="return on capital" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="810" y="310" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-87">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-72" value="fixed asset turnover" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
@@ -241,23 +148,116 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-72">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-87" target="QdUkT4JPRl72sfMGvTyI-89" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-87" value="return on capital" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="810" y="310" width="120" height="40" as="geometry">
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-69" value="Capital &#xa;employed&#xa;turn over" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="570" y="310" width="120" height="50" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-87">
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-69">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-89" value="return on share &#xa;holders funds" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="810" y="370" width="120" height="40" as="geometry">
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-50" value="Operating&#xa;profit ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="580" width="120" height="40" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-89">
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-50">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-59" value="selling&#xa;expense ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-59">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-56" value="admin&#xa;expense ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-56">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-53" value="operating ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-53">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-62" value="net profit ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="340" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-62">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-47" value="Gross profit ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-47">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-37" value="proprietary ratio " style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="70" y="640" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-37">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-35" value="Capital gearing ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="70" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-35">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-33" value="Debt-equity ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="70" y="520" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-33">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-31" value="Stock working&#xa;capital ratio" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="70" y="460" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-31">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-29" value="Super quick ratios" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="70" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-29">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-27" value="Quick ratios" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="70" y="340" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-27">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-25" value="Current ratios" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="70" y="280" width="120" height="40" as="geometry">
+            <mxRectangle x="70" y="280" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdUkT4JPRl72sfMGvTyI-25">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
