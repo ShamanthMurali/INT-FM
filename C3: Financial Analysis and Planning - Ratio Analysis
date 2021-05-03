@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T19:40:07.664Z" agent="5.0 (X11)" etag="TYhth8Yy9MN01o8h8bfx" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T19:40:32.722Z" agent="5.0 (X11)" etag="dWxgwL6vXzFireN_IlFf" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
-    <mxGraphModel dx="2923" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2627" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -473,9 +473,6 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-179" value="EPS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1090" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-180" target="QdUkT4JPRl72sfMGvTyI-182">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-180" value="`=\text{Earnings for ESH}/\text{Number of ES}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="500" width="200" height="50" as="geometry" />
         </mxCell>
@@ -485,14 +482,8 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-182" value="DPS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1090" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-184" target="QdUkT4JPRl72sfMGvTyI-188">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-184" value="`=\text{Equity dividend}/\text{Number of ES}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="635" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QdUkT4JPRl72sfMGvTyI-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-187" target="QdUkT4JPRl72sfMGvTyI-191">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-187" value="`=\text{Equity dividend}/\text{Number of ES}*100`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="770" width="200" height="50" as="geometry" />
