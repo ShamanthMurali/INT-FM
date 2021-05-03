@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T19:32:24.411Z" agent="5.0 (X11)" etag="JQFnwmmeq6paIUju5CqD" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T19:36:58.960Z" agent="5.0 (X11)" etag="sNxs1ki96cSo0OvtQ6e6" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
-    <mxGraphModel dx="1887" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1561" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -527,8 +527,43 @@
         <mxCell id="QdUkT4JPRl72sfMGvTyI-198" value="Price earning ratio (PE)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1045" y="1200" width="210" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-199" target="QdUkT4JPRl72sfMGvTyI-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-199" value="`=\text{Market price per share(MPS)}/\text{EPS}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1032.5" y="1270" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-202" value="&lt;div&gt;&lt;b&gt;MPS = PE * EPS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MPS = Risk * Reward&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1032.5" y="1340" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-204" target="QdUkT4JPRl72sfMGvTyI-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-204" target="QdUkT4JPRl72sfMGvTyI-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-204" value="Yield ratios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-205" target="QdUkT4JPRl72sfMGvTyI-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-205" value="&lt;div&gt;Earning yield ratio&lt;/div&gt;/earning price ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-206" target="QdUkT4JPRl72sfMGvTyI-213">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270.0000000000005" y="1560.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-206" value="&lt;div&gt;Dividend yield ratio&lt;/div&gt;/Dividend price ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-209" value="`=\text{EPS}/\text{MPS}*100`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-213" value="`=\text{DPS}/\text{MPS}*100`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1560" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
