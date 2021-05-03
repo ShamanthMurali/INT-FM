@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T19:36:58.960Z" agent="5.0 (X11)" etag="sNxs1ki96cSo0OvtQ6e6" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T19:40:07.664Z" agent="5.0 (X11)" etag="TYhth8Yy9MN01o8h8bfx" version="14.6.3" type="github">
   <diagram id="8X0gvLv7uxtH0Ay_-eZZ" name="Page-1">
-    <mxGraphModel dx="1561" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2923" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,6 +564,49 @@
         </mxCell>
         <mxCell id="QdUkT4JPRl72sfMGvTyI-213" value="`=\text{DPS}/\text{MPS}*100`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-216" target="QdUkT4JPRl72sfMGvTyI-218" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-216" target="QdUkT4JPRl72sfMGvTyI-220" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdUkT4JPRl72sfMGvTyI-216" target="QdUkT4JPRl72sfMGvTyI-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-216" value="Coverage ratio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-218" target="QdUkT4JPRl72sfMGvTyI-221" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-218" value="Interest coverage ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-220" target="QdUkT4JPRl72sfMGvTyI-222" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120.0000000000005" y="1780.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-220" value="Preference dividend cover" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-221" value="`=\text{EBIT}/\text{Interest}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1780" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-222" value="`=\text{EAT}/\text{Preference dividend}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1780" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QdUkT4JPRl72sfMGvTyI-224" target="QdUkT4JPRl72sfMGvTyI-225" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1267.5000000000005" y="1780.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-224" value="Equity dividend cover" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1286.25" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdUkT4JPRl72sfMGvTyI-225" value="`=\text{Earnings for ESH}/\text{Equity dividend}*100`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="1780" width="202.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
