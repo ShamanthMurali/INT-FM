@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T16:40:02.733Z" agent="5.0 (X11)" version="14.6.11" etag="r-ku8GPF758S_MZcIM7M" type="github"><diagram id="Zh89031SyRttlKcBfM2U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-10T16:48:15.086Z" agent="5.0 (X11)" etag="HGbCmfooe-DJQIgu-i6m" version="14.6.11" type="github">
+  <diagram id="Zh89031SyRttlKcBfM2U" name="Page-1">
+    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qKrEO6SK2HE3FcS90JKk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKrEO6SK2HE3FcS90JKk-1" target="qKrEO6SK2HE3FcS90JKk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qKrEO6SK2HE3FcS90JKk-1" value="Financial management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKrEO6SK2HE3FcS90JKk-2" value="Financial&amp;nbsp; Management&amp;nbsp; comprises&amp;nbsp; of&amp;nbsp; forecasting,&amp;nbsp; planning,&amp;nbsp; organizing,&amp;nbsp; directing,&amp;nbsp; co-ordinating and controlling of all activities relating to acquisition and application of the financial resources of an undertaking in keeping with its financial objective." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="520" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
