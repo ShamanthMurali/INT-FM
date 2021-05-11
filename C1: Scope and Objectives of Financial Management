@@ -1,17 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T16:48:15.086Z" agent="5.0 (X11)" etag="HGbCmfooe-DJQIgu-i6m" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T16:24:08.882Z" agent="5.0 (X11)" etag="DOUdpJGgIlh2bbcvfOOd" version="14.6.11" type="github">
   <diagram id="Zh89031SyRttlKcBfM2U" name="Page-1">
-    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2317" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qKrEO6SK2HE3FcS90JKk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKrEO6SK2HE3FcS90JKk-1" target="qKrEO6SK2HE3FcS90JKk-2">
+        <mxCell id="qKrEO6SK2HE3FcS90JKk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qKrEO6SK2HE3FcS90JKk-1" target="qKrEO6SK2HE3FcS90JKk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qKrEO6SK2HE3FcS90JKk-1" value="Financial management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qKrEO6SK2HE3FcS90JKk-1" value="Financial management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qKrEO6SK2HE3FcS90JKk-2" value="Financial&amp;nbsp; Management&amp;nbsp; comprises&amp;nbsp; of&amp;nbsp; forecasting,&amp;nbsp; planning,&amp;nbsp; organizing,&amp;nbsp; directing,&amp;nbsp; co-ordinating and controlling of all activities relating to acquisition and application of the financial resources of an undertaking in keeping with its financial objective." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKrEO6SK2HE3FcS90JKk-2" target="hGYNr3Qd8krbXsGGlSiE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qKrEO6SK2HE3FcS90JKk-2" value="Financial&amp;nbsp; Management&amp;nbsp; comprises&amp;nbsp; of&amp;nbsp; forecasting,&amp;nbsp; planning,&amp;nbsp; organizing,&amp;nbsp; directing,&amp;nbsp; co-ordinating and controlling of all activities relating to acquisition and application of the financial resources of an undertaking in keeping with its financial objective." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="60" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-1" target="hGYNr3Qd8krbXsGGlSiE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-1" target="hGYNr3Qd8krbXsGGlSiE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-1" value="Aspects of Financial Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-3" target="hGYNr3Qd8krbXsGGlSiE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-3" target="hGYNr3Qd8krbXsGGlSiE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-3" target="hGYNr3Qd8krbXsGGlSiE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="280" />
+              <mxPoint x="90" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-3" target="hGYNr3Qd8krbXsGGlSiE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="280" />
+              <mxPoint x="510" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-3" value="&lt;div&gt;Procurement of &lt;br&gt;&lt;/div&gt;&lt;div&gt;funds&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-4" value="Utilization of Fund" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-8" value="Equity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-9" target="hGYNr3Qd8krbXsGGlSiE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-9" target="hGYNr3Qd8krbXsGGlSiE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-9" value="International Funding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-10" value="Funding from Banks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-11" value="Debentures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-16" value="&lt;div&gt;&amp;nbsp;&lt;b&gt;Good&lt;/b&gt; = less risk &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Bad&lt;/b&gt; = most&amp;nbsp; expensive- dividend - compliance exp - dilute the control&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-17" value="&lt;div&gt;&amp;nbsp;&lt;b&gt;Good&lt;/b&gt; = cheaper, free of tax&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Bad&lt;/b&gt; = int payment whether or not the company makes profits. &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-18" target="hGYNr3Qd8krbXsGGlSiE-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="480" />
+              <mxPoint x="160" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-18" target="hGYNr3Qd8krbXsGGlSiE-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="480" />
+              <mxPoint x="630" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-18" value="&lt;div&gt;&amp;nbsp;&lt;b&gt;Good&lt;/b&gt; = cheapest&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Bad&lt;/b&gt; = repayment&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-20" value="Foreign&amp;nbsp; Direct&amp;nbsp; Investment&amp;nbsp; (FDI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-21" value="Foreign Institutional Investors (FII)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-24" target="hGYNr3Qd8krbXsGGlSiE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-24" target="hGYNr3Qd8krbXsGGlSiE-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-24" value="Non-Fund Based" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-25" target="hGYNr3Qd8krbXsGGlSiE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-25" target="hGYNr3Qd8krbXsGGlSiE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-25" target="hGYNr3Qd8krbXsGGlSiE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-25" target="hGYNr3Qd8krbXsGGlSiE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGYNr3Qd8krbXsGGlSiE-25" target="hGYNr3Qd8krbXsGGlSiE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-25" value="Fund based" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-28" value="Working Capital Term" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-29" value="Term Loans" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-30" value="Cash Credit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-31" value="Bill Purchase/ Discounting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-32" value="Overdraft " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-33" value="Guarantee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hGYNr3Qd8krbXsGGlSiE-34" value="Letters of Credit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
