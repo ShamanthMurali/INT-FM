@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T16:49:35.352Z" agent="5.0 (X11)" etag="POVvdY-eaQqrgpZ2eLkn" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T16:50:28.979Z" agent="5.0 (X11)" etag="mzAm3OGttDGCVkSoG_PJ" version="14.6.11" type="github">
   <diagram id="TvLclYg_FD9TWmFOmzQr" name="Page-1">
     <mxGraphModel dx="1032" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -37,6 +37,14 @@
         <mxCell id="oDMhrl-GPviXtYCBzw35-13" value="`\text{Financial leverage} = (\text{% change in EPS/EAT/EBT})/(\text{% change in EBIT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="280" width="390" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDMhrl-GPviXtYCBzw35-15" target="oDMhrl-GPviXtYCBzw35-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="640" />
+              <mxPoint x="510" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oDMhrl-GPviXtYCBzw35-15" value="`\text{Operating leverage} = (\text{Contribution})/(\text{EBIT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="400" width="390" height="80" as="geometry" />
         </mxCell>
@@ -52,6 +60,9 @@
         <mxCell id="oDMhrl-GPviXtYCBzw35-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDMhrl-GPviXtYCBzw35-19" target="oDMhrl-GPviXtYCBzw35-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="oDMhrl-GPviXtYCBzw35-19" target="oDMhrl-GPviXtYCBzw35-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oDMhrl-GPviXtYCBzw35-19" value="`\text{Financial leverage} = (\text{EBIT})/(\text{EBT-Interest}-\text{Preference dividend}/(1-t))`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="520" width="390" height="80" as="geometry" />
         </mxCell>
@@ -60,6 +71,17 @@
         </mxCell>
         <mxCell id="oDMhrl-GPviXtYCBzw35-21" value="&lt;div&gt;Abb.&lt;/div&gt;&lt;div&gt;t= tax percentage&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. tax=30, then t=0.3&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="540" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDMhrl-GPviXtYCBzw35-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-23" value="Combined leverge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-27" value="`\text{Operating leverage} = (\text{% change in EBIT})/(\text{% change in Sales})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="290" width="390" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
