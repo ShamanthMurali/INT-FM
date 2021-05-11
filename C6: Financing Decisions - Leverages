@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T16:35:09.019Z" agent="5.0 (X11)" etag="31zJhjKKABSpb3lBov-m" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T16:49:35.352Z" agent="5.0 (X11)" etag="POVvdY-eaQqrgpZ2eLkn" version="14.6.11" type="github">
   <diagram id="TvLclYg_FD9TWmFOmzQr" name="Page-1">
-    <mxGraphModel dx="1032" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,49 @@
           <mxGeometry x="280" y="60" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oDMhrl-GPviXtYCBzw35-5" value="&lt;b&gt;Lower the better&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="160" height="30" as="geometry" />
+          <mxGeometry x="340" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDMhrl-GPviXtYCBzw35-8" target="oDMhrl-GPviXtYCBzw35-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-8" value="Operation leverage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDMhrl-GPviXtYCBzw35-9" target="oDMhrl-GPviXtYCBzw35-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-9" value="Financial leverage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-11" value="`\text{Operating leverage} = (\text{% change in EBIT})/(\text{% change in Sales})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="280" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-13" value="`\text{Financial leverage} = (\text{% change in EPS/EAT/EBT})/(\text{% change in EBIT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-15" value="`\text{Operating leverage} = (\text{Contribution})/(\text{EBIT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="400" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-16" value="&lt;b&gt;OR&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-17" value="&lt;b&gt;OR&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-18" value="`\text{Financial leverage} = (\text{EBIT})/(\text{EBT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDMhrl-GPviXtYCBzw35-19" target="oDMhrl-GPviXtYCBzw35-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-19" value="`\text{Financial leverage} = (\text{EBIT})/(\text{EBT-Interest}-\text{Preference dividend}/(1-t))`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="520" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-20" value="When there is preference dividend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="490" width="215" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMhrl-GPviXtYCBzw35-21" value="&lt;div&gt;Abb.&lt;/div&gt;&lt;div&gt;t= tax percentage&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. tax=30, then t=0.3&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="540" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
