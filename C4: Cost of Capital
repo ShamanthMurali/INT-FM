@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T07:18:12.250Z" agent="5.0 (Windows)" etag="0HkTKctix4PDPLp4Jg1b" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T07:21:48.820Z" agent="5.0 (Windows)" etag="IULrn8izWUTVGLVQJqBa" version="14.7.0" type="github">
   <diagram id="NBwn9jTQPmWni7t5W2NJ" name="Page-1">
     <mxGraphModel dx="2093" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -40,8 +40,14 @@
         <mxCell id="fCbFEOzzkwyuKLvrn1O6-10" value="Do not put any thing in ebit use it as a variable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="240" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-12" target="fCbFEOzzkwyuKLvrn1O6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fCbFEOzzkwyuKLvrn1O6-12" value="Financial break even point (FBEP)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-14" value="`FBEP = Interest + \text{Preference dividend}/(1-t)`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
