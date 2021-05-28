@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T03:10:43.553Z" agent="5.0 (Windows)" etag="6sxqeDDqqegnJ-oOBplE" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:12:22.150Z" agent="5.0 (Windows)" etag="3D9lt_kjn74EjBPEXUh6" version="14.7.0" type="github">
   <diagram id="0Wpl8S5tjhMSlt19PMPD" name="Page-1">
     <mxGraphModel dx="2751" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -205,8 +205,8 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-82" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-83" value="`K_e = [()/(MPS)+g]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="440" width="170" height="60" as="geometry" />
+        <mxCell id="KYDJPtczlA5p-imtOKEG-83" value="`K_e = (\text{interest P.a})/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1128.75" y="440" width="182.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-84" value="`K_e = [(EPS_1)/(\text{Net proceeds})+g ]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="480" width="220" height="60" as="geometry" />
