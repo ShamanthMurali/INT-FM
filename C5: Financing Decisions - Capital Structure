@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T03:12:22.150Z" agent="5.0 (Windows)" etag="3D9lt_kjn74EjBPEXUh6" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:17:22.777Z" agent="5.0 (Windows)" etag="hoz2dIkfmuT6xbS-XjmR" version="14.7.0" type="github">
   <diagram id="0Wpl8S5tjhMSlt19PMPD" name="Page-1">
-    <mxGraphModel dx="2751" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4222" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KYDJPtczlA5p-imtOKEG-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-1" target="KYDJPtczlA5p-imtOKEG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-1" target="KYDJPtczlA5p-imtOKEG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-1" target="KYDJPtczlA5p-imtOKEG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-1" value="Cost of&amp;nbsp; capital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-180" width="120" height="40" as="geometry" />
+          <mxGeometry x="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-2" target="KYDJPtczlA5p-imtOKEG-11">
           <mxGeometry relative="1" as="geometry" />
@@ -17,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-3" value="Cost of preference shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="1150" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-4" target="KYDJPtczlA5p-imtOKEG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-4" value="&lt;div&gt;cost to debt&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="1640" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-5" target="KYDJPtczlA5p-imtOKEG-80">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-5" value="&lt;div&gt;&lt;u&gt;debt includes&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. debentures&lt;/div&gt;&lt;div&gt;2. bank loan only long term&lt;/div&gt;&lt;div&gt;(short term is non included)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="210" width="160" height="80" as="geometry" />
+          <mxGeometry x="1620" y="130" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-7" target="KYDJPtczlA5p-imtOKEG-30">
           <mxGeometry relative="1" as="geometry" />
@@ -115,10 +124,10 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-27" value="Basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-30" value="`K_e = (DPS_1)/(MPS)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-30" value="`K_e = (DPS_0)/(MPS)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-840" y="340" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-32" value="`K_e = (DPS_1)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-32" value="`K_e = (DPS_0)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-660" y="340" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-34" target="KYDJPtczlA5p-imtOKEG-38">
@@ -160,10 +169,10 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-51" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-56" value="`K_e = (EPS_1)/(MPS)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-56" value="`K_e = (EPS_0)/(MPS)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="340" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-57" value="`K_e = (EPS_1)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-57" value="`K_e = (EPS_0)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="KYDJPtczlA5p-imtOKEG-67" target="KYDJPtczlA5p-imtOKEG-70" parent="1">
@@ -185,7 +194,7 @@
           <mxGeometry x="555" y="340" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-75" value="`K_p = (PD)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="200" width="180" height="60" as="geometry" />
+          <mxGeometry x="1120" y="150" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-80" target="KYDJPtczlA5p-imtOKEG-87">
           <mxGeometry relative="1" as="geometry" />
@@ -194,7 +203,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-80" value="Existing shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="1451.25" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-82" target="KYDJPtczlA5p-imtOKEG-91">
           <mxGeometry relative="1" as="geometry" />
@@ -203,28 +212,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-82" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="1850" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-83" value="`K_e = (\text{interest P.a})/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1128.75" y="440" width="182.5" height="60" as="geometry" />
+          <mxGeometry x="1720" y="360" width="182.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-84" value="`K_e = [(EPS_1)/(\text{Net proceeds})+g ]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="480" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-87" target="KYDJPtczlA5p-imtOKEG-83">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-87" target="KYDJPtczlA5p-imtOKEG-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-87" value="Before tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="1331.25" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-88" target="KYDJPtczlA5p-imtOKEG-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-88" value="after tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="1541.87" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-91" target="KYDJPtczlA5p-imtOKEG-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-91" value="Before tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="1751.25" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-92" target="KYDJPtczlA5p-imtOKEG-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-92" value="after tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="1961.88" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-96" value="`K_e = (\text{interest P.a} (1-t))/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1921.2500000000002" y="360" width="201.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-100" value="`K_e = (\text{interest P.a})/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="360" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-103" value="`K_e = (\text{interest P.a} (1-t))/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1501.25" y="360" width="201.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
