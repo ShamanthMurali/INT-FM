@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T03:41:27.258Z" agent="5.0 (Windows)" etag="r73tR60C2P8cATVHu_1b" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:41:54.585Z" agent="5.0 (Windows)" etag="QbVjxhFKldY-SOqd67_q" version="14.7.0" type="github">
   <diagram id="0Wpl8S5tjhMSlt19PMPD" name="Page-1">
-    <mxGraphModel dx="3501" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5903" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,7 +526,7 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-197" value="&lt;b&gt;Overall cost of capital&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-192">
           <mxGeometry x="440" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-199" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;in MV do not consider reserves since it is already included in the market price&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-199" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;in MV do not consider reserves since it is already included in the market price&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1095" y="1140" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-238" value="&lt;div&gt;Marginal value&lt;/div&gt;&lt;div&gt; weights&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
