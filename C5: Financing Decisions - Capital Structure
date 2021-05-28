@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T02:57:24.279Z" agent="5.0 (Windows)" etag="OrFuwUp0waemu0tcLfFs" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:04:06.873Z" agent="5.0 (Windows)" etag="0Gw6Qtasv2ktCcrlygS7" version="14.7.0" type="github">
   <diagram id="0Wpl8S5tjhMSlt19PMPD" name="Page-1">
     <mxGraphModel dx="2961" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KYDJPtczlA5p-imtOKEG-1" value="Cost of&amp;nbsp; capital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="425" y="-180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-2" target="KYDJPtczlA5p-imtOKEG-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-2" value="&lt;div&gt;Cost of equity &lt;br&gt;&lt;/div&gt;&lt;div&gt;shares&lt;/div&gt;&lt;div&gt;&lt;b&gt;`K_e`&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="70" width="120" height="50" as="geometry" />
+          <mxGeometry x="90" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-3" target="KYDJPtczlA5p-imtOKEG-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-3" value="Cost of preference shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-20" width="120" height="40" as="geometry" />
+          <mxGeometry x="1280" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-4" target="KYDJPtczlA5p-imtOKEG-5">
           <mxGeometry relative="1" as="geometry" />
@@ -56,10 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-11" value="there are six approaches" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="140" width="160" height="20" as="geometry" />
+          <mxGeometry x="70" y="140" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-13" value="realized yield approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="960" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-14" target="KYDJPtczlA5p-imtOKEG-7">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +74,7 @@
           <mxGeometry x="-720" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-15" value="capital assets pricing model (CAPM)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="800" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-16" target="KYDJPtczlA5p-imtOKEG-41">
           <mxGeometry relative="1" as="geometry" />
@@ -82,11 +85,23 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-16" value="&lt;div&gt;dividend yield + growth approach&lt;/div&gt;&lt;div&gt;(Gordon&#39;s formula)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="200" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-17" target="KYDJPtczlA5p-imtOKEG-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-17" target="KYDJPtczlA5p-imtOKEG-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-17" value="earning yield approach " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-18" target="KYDJPtczlA5p-imtOKEG-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-18" target="KYDJPtczlA5p-imtOKEG-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-18" value="earning yield + growth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-27" target="KYDJPtczlA5p-imtOKEG-34">
           <mxGeometry relative="1" as="geometry" />
@@ -126,6 +141,45 @@
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-45" value="`K_e = [(DPS_1)/(\text{Net proceeds})+g ]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="350" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-49" target="KYDJPtczlA5p-imtOKEG-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-49" value="Existing shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-51" target="KYDJPtczlA5p-imtOKEG-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-51" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-56" value="`K_e = (EPS_1)/(MPS)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-57" value="`K_e = (EPS_1)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="KYDJPtczlA5p-imtOKEG-67" target="KYDJPtczlA5p-imtOKEG-70" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-67" value="Existing shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="KYDJPtczlA5p-imtOKEG-69" target="KYDJPtczlA5p-imtOKEG-71" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-69" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-70" value="`K_e = [(EPS_1)/(MPS)+g]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-71" value="`K_e = [(EPS_1)/(\text{Net proceeds})+g ]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="340" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-75" value="`K_p = (PD)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="200" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
