@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T03:17:22.777Z" agent="5.0 (Windows)" etag="hoz2dIkfmuT6xbS-XjmR" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:31:38.466Z" agent="5.0 (Windows)" etag="udtL593DJKNvjNSSwg7V" version="14.7.0" type="github">
   <diagram id="0Wpl8S5tjhMSlt19PMPD" name="Page-1">
-    <mxGraphModel dx="4222" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3501" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,11 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-1" target="KYDJPtczlA5p-imtOKEG-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-1" target="KYDJPtczlA5p-imtOKEG-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-1" value="Cost of&amp;nbsp; capital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-2" target="KYDJPtczlA5p-imtOKEG-11">
           <mxGeometry relative="1" as="geometry" />
@@ -25,13 +28,13 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-3" target="KYDJPtczlA5p-imtOKEG-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-3" value="Cost of preference shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-3" value="Cost of preference shares `K_p`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-4" target="KYDJPtczlA5p-imtOKEG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-4" value="&lt;div&gt;cost to debt&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-4" value="&lt;div&gt;cost to debt&lt;br&gt;&lt;/div&gt;&lt;div&gt;`K_d`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-5" target="KYDJPtczlA5p-imtOKEG-80">
@@ -214,7 +217,7 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-82" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-83" value="`K_e = (\text{interest P.a})/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-83" value="`K_d = (\text{interest P.a})/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="360" width="182.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-87" target="KYDJPtczlA5p-imtOKEG-100">
@@ -241,14 +244,284 @@
         <mxCell id="KYDJPtczlA5p-imtOKEG-92" value="after tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1961.88" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-96" value="`K_e = (\text{interest P.a} (1-t))/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-96" value="`K_d = (\text{interest P.a} (1-t))/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1921.2500000000002" y="360" width="201.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-100" value="`K_e = (\text{interest P.a})/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-100" value="`K_d = (\text{interest P.a})/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="360" width="182.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-103" value="`K_e = (\text{interest P.a} (1-t))/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-103" value="`K_d = (\text{interest P.a} (1-t))/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1501.25" y="360" width="201.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-108" target="KYDJPtczlA5p-imtOKEG-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-108" value="&lt;div&gt;cost to retained earnongs&lt;/div&gt;&lt;div&gt;`K_r`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2122.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-109" value="`K_r = K_e`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2122.5" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-112" target="KYDJPtczlA5p-imtOKEG-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-112" target="KYDJPtczlA5p-imtOKEG-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-112" value="&lt;div&gt;Cost of&amp;nbsp; Overall capital&lt;/div&gt;&lt;div&gt;`K_o`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-113" target="KYDJPtczlA5p-imtOKEG-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-113" target="KYDJPtczlA5p-imtOKEG-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-113" value="Existing Funds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-114" value="New Funds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-117" value="&lt;div&gt;Market value&lt;/div&gt;&lt;div&gt; weights&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-118" value="&lt;div&gt;Book value&lt;/div&gt;&lt;div&gt; weights&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-118" target="KYDJPtczlA5p-imtOKEG-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-123" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="370" y="880" width="550" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-124" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-123">
+          <mxGeometry width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-125" value="Sources" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-124">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-126" value="Amounts" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-124">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-127" value="weights" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-124">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-149" value="cost in %" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-124">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-144" value="Weights * cost" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-124">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-128" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-123">
+          <mxGeometry y="40" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-129" value="ESC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-128">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-130" value="a (BV)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-128">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-131" value="`a/(abcd)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-128">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-150" value="From above formulas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-128">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-145" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-128">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-132" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-123">
+          <mxGeometry y="80" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-133" value="Reserves" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-132">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-134" value="b (BV)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-132">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-135" value="`b/(abcd)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-132">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-151" value="From above formulas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-132">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-146" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-132">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-136" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-123">
+          <mxGeometry y="120" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-137" value="PSC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-136">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-138" value="c (BV)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-136">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-139" value="`c/(abcd)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-136">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-152" value="From above formulas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-136">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-147" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-136">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-140" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-123">
+          <mxGeometry y="160" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-141" value="Debt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-140">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-142" value="d (BV)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-140">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-143" value="`d/(abcd)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-140">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-153" value="From above formulas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-140">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-148" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-140">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-154" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-123">
+          <mxGeometry y="200" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-155" value="TOTAL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-154">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-156" value="abcd" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-154">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-157" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-154">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-158" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-154">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-159" value="&lt;b&gt;Overall cost of capital&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-154">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-117" target="KYDJPtczlA5p-imtOKEG-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-161" target="KYDJPtczlA5p-imtOKEG-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-161" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="940" y="880" width="550" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-162" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-161">
+          <mxGeometry width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-163" value="Sources" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-162">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-164" value="Amounts" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-162">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-165" value="weights" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-162">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-166" value="cost in %" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-162">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-167" value="Weights * cost" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-162">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-168" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-161">
+          <mxGeometry y="40" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-169" value="ESC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-168">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-170" value="a (MV)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-168">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-171" value="`a/(abcd)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-168">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-172" value="From above formulas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-168">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-173" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-168">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-174" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-161">
+          <mxGeometry y="80" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-175" value="Reserves" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-174">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-176" value="Do not consider" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-174">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-177" value="Do not consider" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-174">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-178" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-174">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-179" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-174">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-180" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-161">
+          <mxGeometry y="120" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-181" value="PSC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-180">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-182" value="c (MV)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-180">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-183" value="`c/(abcd)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-180">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-184" value="From above formulas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-180">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-185" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-180">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-186" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-161">
+          <mxGeometry y="160" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-187" value="Debt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-186">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-188" value="d (MV)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-186">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-189" value="`d/(abcd)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-186">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-190" value="From above formulas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-186">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-191" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-186">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-192" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-161">
+          <mxGeometry y="200" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-193" value="TOTAL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-192">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-194" value="abcd" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-192">
+          <mxGeometry x="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-195" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-192">
+          <mxGeometry x="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-196" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-192">
+          <mxGeometry x="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-197" value="&lt;b&gt;Overall cost of capital&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KYDJPtczlA5p-imtOKEG-192">
+          <mxGeometry x="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYDJPtczlA5p-imtOKEG-199" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;in MV do not consider reserves since it is already included in the market price&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="1140" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
