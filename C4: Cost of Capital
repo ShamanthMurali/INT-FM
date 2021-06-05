@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T19:04:36.216Z" agent="5.0 (X11)" etag="Gq026pT_6SsafIw62kMx" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T19:05:46.049Z" agent="5.0 (X11)" etag="cNqtpdDQEsL-RO4V-dCK" version="14.7.4" type="github">
   <diagram id="0Wpl8S5tjhMSlt19PMPD" name="Page-1">
-    <mxGraphModel dx="3484" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2561" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -667,7 +667,7 @@
         <mxCell id="HQw18SGwE2yZITcpAtUY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KYDJPtczlA5p-imtOKEG-280" target="HQw18SGwE2yZITcpAtUY-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KYDJPtczlA5p-imtOKEG-280" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important note on Equity / preference Dividend&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ex-dividend = MP of share not including dividend cost.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cum-dividend = MP of share including dividend cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when these are given &lt;u&gt;&lt;b&gt;always use Ex-dividend&lt;/b&gt;&lt;/u&gt; amount and not cum-dividend&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KYDJPtczlA5p-imtOKEG-280" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important note on Equity Dividend&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ex-dividend = MP of share not including dividend cost.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cum-dividend = MP of share including dividend cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when these are given &lt;u&gt;&lt;b&gt;always use Ex-dividend&lt;/b&gt;&lt;/u&gt; amount and not cum-dividend&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="390" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HQw18SGwE2yZITcpAtUY-1" value="Coupon rate = rate of interest" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
