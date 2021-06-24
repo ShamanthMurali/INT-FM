@@ -1,81 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T07:42:36.593Z" agent="5.0 (Windows)" etag="Cf497b7M7uJUBZEkK8OM" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T12:14:19.114Z" agent="5.0 (X11)" etag="jbwAySvtwIwgbHKciCCu" version="14.8.0" type="github">
   <diagram id="NBwn9jTQPmWni7t5W2NJ" name="Page-1">
-    <mxGraphModel dx="1776" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1241" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-1" target="fCbFEOzzkwyuKLvrn1O6-2">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-1" target="fCbFEOzzkwyuKLvrn1O6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-1" value="Capital structure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-1" value="Capital structure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-2" target="fCbFEOzzkwyuKLvrn1O6-3">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-2" target="fCbFEOzzkwyuKLvrn1O6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-2" value="Helps us to choose the best capital structure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-2" value="Helps us to choose the best capital structure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="70" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-3" target="fCbFEOzzkwyuKLvrn1O6-18">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-3" target="fCbFEOzzkwyuKLvrn1O6-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-3" value="The capital structure that gives&lt;b&gt; &lt;u&gt;highest EPS&lt;/u&gt;&lt;/b&gt; is the &lt;u&gt;&lt;b&gt;best capital structure&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-3" value="The capital structure that gives&lt;b&gt; &lt;u&gt;highest EPS&lt;/u&gt;&lt;/b&gt; is the &lt;u&gt;&lt;b&gt;best capital structure&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="110" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-6" target="fCbFEOzzkwyuKLvrn1O6-8">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-6" target="fCbFEOzzkwyuKLvrn1O6-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-8" target="fCbFEOzzkwyuKLvrn1O6-10">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-8" target="fCbFEOzzkwyuKLvrn1O6-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-8" target="fCbFEOzzkwyuKLvrn1O6-12">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-8" target="fCbFEOzzkwyuKLvrn1O6-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-8" value="$$\dfrac{\left( EBIT-Interest\right) \left( 1-t\right) -Preferece.Dividend}{Number.of.Equity.shares.of.plan.1}=\dfrac{\left( EBIT-Interest\right) \left( 1-t\right) -Preference.Dividend}{Number.of.Equity.shares.of.plan.2}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-8" value="$$\dfrac{\left( EBIT-Interest\right) \left( 1-t\right) -Preferece.Dividend}{Number.of.Equity.shares.of.plan.1}=\dfrac{\left( EBIT-Interest\right) \left( 1-t\right) -Preference.Dividend}{Number.of.Equity.shares.of.plan.2}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="400" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-10" value="Do not put any thing in ebit use it as a variable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-10" value="Do not put any thing in ebit use it as a variable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-12" target="fCbFEOzzkwyuKLvrn1O6-14">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-12" target="fCbFEOzzkwyuKLvrn1O6-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-14" target="fCbFEOzzkwyuKLvrn1O6-16">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-14" target="fCbFEOzzkwyuKLvrn1O6-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-14" value="`FBEP = Interest + \text{Preference dividend}/(1-t)`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-14" value="`FBEP = Interest + \text{Preference dividend}/(1-t)`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="560" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-16" value="&lt;div&gt;if&lt;/div&gt;&lt;div&gt;EBIT &amp;gt; Indifference level -----&amp;gt; Choose More risk&lt;/div&gt;&lt;div&gt;EBIT &amp;lt; Indifference level -----&amp;gt; Choose Less risk&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-16" value="&lt;div&gt;if&lt;/div&gt;&lt;div&gt;EBIT &amp;gt; Indifference level -----&amp;gt; Choose More risk&lt;/div&gt;&lt;div&gt;EBIT &amp;lt; Indifference level -----&amp;gt; Choose Less risk&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="660" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-18" target="fCbFEOzzkwyuKLvrn1O6-20">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-18" target="fCbFEOzzkwyuKLvrn1O6-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-18" value="Calculation of number of shares to be issued" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-18" value="Calculation of number of shares to be issued" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="170" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fCbFEOzzkwyuKLvrn1O6-20" target="fCbFEOzzkwyuKLvrn1O6-6">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-20" target="fCbFEOzzkwyuKLvrn1O6-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-20" value="&lt;div&gt;`\text{net proceeds} = \text{Issue price} - \text{flotation cost}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Number of shares} = \text{Equity share capital} / \text{Net proceeds}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-20" value="&lt;div&gt;`\text{net proceeds} = \text{Issue price} - \text{flotation cost}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Number of shares} = \text{Equity share capital} / \text{Net proceeds}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="230" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-6" value="&lt;div&gt;Indifference&lt;/div&gt;&lt;div&gt; level (IV)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-6" value="&lt;div&gt;Indifference&lt;/div&gt;&lt;div&gt; level (IV)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="400" y="340" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="520" width="220" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-24" value="&lt;div&gt;At this point the &lt;br&gt;&lt;/div&gt;&lt;div&gt;EPS of Plan 1 = EPS of Plan 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hence the plans are indifferent and you can use any plan.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fCbFEOzzkwyuKLvrn1O6-6">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-24" value="&lt;div&gt;At this point the &lt;br&gt;&lt;/div&gt;&lt;div&gt;EPS of Plan 1 = EPS of Plan 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hence the plans are indifferent and you can use any plan.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fCbFEOzzkwyuKLvrn1O6-6" vertex="1">
           <mxGeometry y="40" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-12" value="&lt;div&gt;Financial break &lt;br&gt;&lt;/div&gt;&lt;div&gt;even point (FBEP)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-12" value="&lt;div&gt;Financial break &lt;br&gt;&lt;/div&gt;&lt;div&gt;even point (FBEP)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="400" y="500" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="680" width="230" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fCbFEOzzkwyuKLvrn1O6-25" value="&lt;div&gt;it is the level of EBIT where &lt;br&gt;&lt;/div&gt;&lt;div&gt;EPS = 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this is the minimum EBIT that the firm has to generate or their share holders &lt;br&gt;&lt;/div&gt;&lt;div&gt;will take loss&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fCbFEOzzkwyuKLvrn1O6-12">
+        <mxCell id="fCbFEOzzkwyuKLvrn1O6-25" value="&lt;div&gt;it is the level of EBIT where &lt;br&gt;&lt;/div&gt;&lt;div&gt;EPS = 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this is the minimum EBIT that the firm has to generate or their share holders &lt;br&gt;&lt;/div&gt;&lt;div&gt;will take loss&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fCbFEOzzkwyuKLvrn1O6-12" vertex="1">
           <mxGeometry y="40" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-1" value="Capital structure theories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-2" target="0Dq-MpgtlUXQn1GNOlvV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-2" target="0Dq-MpgtlUXQn1GNOlvV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-2" target="0Dq-MpgtlUXQn1GNOlvV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-2" value="Capital Structure Irrelevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-3" target="0Dq-MpgtlUXQn1GNOlvV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-3" target="0Dq-MpgtlUXQn1GNOlvV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-3" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-4" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-5" value="Net Income (NI) Approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-6" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-7" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-8" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
