@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T12:15:15.488Z" agent="5.0 (X11)" etag="n1phvA6kIlxQUolcGk6D" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T12:35:17.049Z" agent="5.0 (X11)" etag="gBsUgq-0xcASm-4GgXQO" version="14.8.0" type="github">
   <diagram id="NBwn9jTQPmWni7t5W2NJ" name="Page-1">
-    <mxGraphModel dx="1958" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2928" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,17 +110,23 @@
         <mxCell id="0Dq-MpgtlUXQn1GNOlvV-4" value="Traditional Approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-5" value="Net Income (NI) Approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="-400" width="120" height="40" as="geometry" />
+        <mxCell id="PRRnBeqVcUnTKWBKBtko-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-5" target="PRRnBeqVcUnTKWBKBtko-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-6" value="Net Operating Income (NOI) Approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-400" width="120" height="40" as="geometry" />
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-5" value="Net Income (NI) Approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="-400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-6" value="&lt;div&gt;Net Operating &lt;br&gt;&lt;/div&gt;&lt;div&gt;Income (NOI) &lt;br&gt;&lt;/div&gt;&lt;div&gt;Approach&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Dq-MpgtlUXQn1GNOlvV-7" value="Modigliani and Miller (MM) Approach- 1963: with tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Dq-MpgtlUXQn1GNOlvV-8" value="Modigliani and Miller (MM) Approach -1958: without tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRRnBeqVcUnTKWBKBtko-2" value="`\text{overall cost of capital}=\ text{EBIT} / \text{Value of the firm}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="-340" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
