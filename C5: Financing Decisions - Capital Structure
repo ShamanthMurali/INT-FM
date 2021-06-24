@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T12:14:19.114Z" agent="5.0 (X11)" etag="jbwAySvtwIwgbHKciCCu" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T12:15:15.488Z" agent="5.0 (X11)" etag="n1phvA6kIlxQUolcGk6D" version="14.8.0" type="github">
   <diagram id="NBwn9jTQPmWni7t5W2NJ" name="Page-1">
-    <mxGraphModel dx="1241" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,50 +77,50 @@
         <mxCell id="fCbFEOzzkwyuKLvrn1O6-25" value="&lt;div&gt;it is the level of EBIT where &lt;br&gt;&lt;/div&gt;&lt;div&gt;EPS = 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this is the minimum EBIT that the firm has to generate or their share holders &lt;br&gt;&lt;/div&gt;&lt;div&gt;will take loss&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fCbFEOzzkwyuKLvrn1O6-12" vertex="1">
           <mxGeometry y="40" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-3">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-2">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-1" value="Capital structure theories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-1" value="Capital structure theories" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="-560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-2" target="0Dq-MpgtlUXQn1GNOlvV-6">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-2" target="0Dq-MpgtlUXQn1GNOlvV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-2" target="0Dq-MpgtlUXQn1GNOlvV-7">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-2" target="0Dq-MpgtlUXQn1GNOlvV-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-2" target="0Dq-MpgtlUXQn1GNOlvV-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-2" value="Capital Structure Irrelevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-2" value="Capital Structure Irrelevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="-480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-3" target="0Dq-MpgtlUXQn1GNOlvV-5">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-3" target="0Dq-MpgtlUXQn1GNOlvV-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-3" target="0Dq-MpgtlUXQn1GNOlvV-4">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-3" target="0Dq-MpgtlUXQn1GNOlvV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-3" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PRRnBeqVcUnTKWBKBtko-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-3" target="0Dq-MpgtlUXQn1GNOlvV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-3" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="-480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-4" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-400" width="120" height="40" as="geometry" />
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-4" value="Traditional Approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-5" value="Net Income (NI) Approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-400" width="120" height="40" as="geometry" />
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-5" value="Net Income (NI) Approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-6" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-400" width="120" height="40" as="geometry" />
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-6" value="Net Operating Income (NOI) Approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-7" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-400" width="120" height="40" as="geometry" />
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-7" value="Modigliani and Miller (MM) Approach- 1963: with tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-8" value="Capital Structure Relevance Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-400" width="120" height="40" as="geometry" />
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-8" value="Modigliani and Miller (MM) Approach -1958: without tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
