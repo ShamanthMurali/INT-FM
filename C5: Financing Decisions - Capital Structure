@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T12:12:25.517Z" agent="5.0 (X11)" etag="DJunLoP_1P1hgQjOm5wQ" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T12:13:11.875Z" agent="5.0 (X11)" etag="w4XMDqlaf2G7DwQF4j0h" version="14.8.1" type="github">
   <diagram id="NBwn9jTQPmWni7t5W2NJ" name="Page-1">
-    <mxGraphModel dx="2697" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2433" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fCbFEOzzkwyuKLvrn1O6-8" value="$$\dfrac{\left( EBIT-Interest\right) \left( 1-t\right) -Preferece.Dividend}{Number.of.Equity.shares.of.plan.1}=\dfrac{\left( EBIT-Interest\right) \left( 1-t\right) -Preference.Dividend}{Number.of.Equity.shares.of.plan.2}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="400" width="680" height="80" as="geometry" />
+          <mxGeometry x="70" y="400" width="780" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCbFEOzzkwyuKLvrn1O6-10" value="Do not put any thing in ebit use it as a variable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="-30" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCbFEOzzkwyuKLvrn1O6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCbFEOzzkwyuKLvrn1O6-12" target="fCbFEOzzkwyuKLvrn1O6-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -77,16 +77,16 @@
         <mxCell id="fCbFEOzzkwyuKLvrn1O6-25" value="&lt;div&gt;it is the level of EBIT where &lt;br&gt;&lt;/div&gt;&lt;div&gt;EPS = 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this is the minimum EBIT that the firm has to generate or their share holders &lt;br&gt;&lt;/div&gt;&lt;div&gt;will take loss&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fCbFEOzzkwyuKLvrn1O6-12" vertex="1">
           <mxGeometry y="40" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZwAHLrNjAykpvK-dcja7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-4">
+        <mxCell id="ZwAHLrNjAykpvK-dcja7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZwAHLrNjAykpvK-dcja7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-7">
+        <mxCell id="ZwAHLrNjAykpvK-dcja7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZwAHLrNjAykpvK-dcja7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-6">
+        <mxCell id="ZwAHLrNjAykpvK-dcja7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZwAHLrNjAykpvK-dcja7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-5">
+        <mxCell id="ZwAHLrNjAykpvK-dcja7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-1" target="0Dq-MpgtlUXQn1GNOlvV-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Dq-MpgtlUXQn1GNOlvV-1" value="Capital structure theories" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -110,7 +110,7 @@
         <mxCell id="0Dq-MpgtlUXQn1GNOlvV-6" value="&lt;div&gt;Net Operating &lt;br&gt;&lt;/div&gt;&lt;div&gt;Income (NOI) &lt;br&gt;&lt;/div&gt;&lt;div&gt;Approach&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="985" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZwAHLrNjAykpvK-dcja7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-7" target="ikqGebWyr_Hx67nsyN1L-5">
+        <mxCell id="ZwAHLrNjAykpvK-dcja7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-7" target="ikqGebWyr_Hx67nsyN1L-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Dq-MpgtlUXQn1GNOlvV-7" value="Modigliani and Miller (MM) Approach- 1963: with tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
