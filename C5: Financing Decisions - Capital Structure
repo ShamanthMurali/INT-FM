@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T05:51:00.077Z" agent="5.0 (X11)" etag="_GpxlghiGt6fsFezS78B" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T05:51:26.058Z" agent="5.0 (X11)" etag="ApNRLS4KZlhepCvMxqYj" version="14.8.1" type="github">
   <diagram id="NBwn9jTQPmWni7t5W2NJ" name="Page-1">
-    <mxGraphModel dx="1444" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1710" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,8 +201,14 @@
         <mxCell id="ikqGebWyr_Hx67nsyN1L-11" value="Value of levered company &amp;gt; value of levered company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="-500" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ikqGebWyr_Hx67nsyN1L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikqGebWyr_Hx67nsyN1L-13" target="ikqGebWyr_Hx67nsyN1L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ikqGebWyr_Hx67nsyN1L-13" value="Value of levered company = value of levered company + (int * tax%)/`K_d`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-440" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ikqGebWyr_Hx67nsyN1L-15" value="Value of levered company = value of levered company + debt * Tax%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-380" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
