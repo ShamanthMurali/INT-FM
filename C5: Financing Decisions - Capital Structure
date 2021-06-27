@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T12:13:11.875Z" agent="5.0 (X11)" etag="w4XMDqlaf2G7DwQF4j0h" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T16:50:58.166Z" agent="5.0 (X11)" etag="C5CiiDc17htEb_rL1gux" version="14.8.1" type="github">
   <diagram id="NBwn9jTQPmWni7t5W2NJ" name="Page-1">
-    <mxGraphModel dx="2433" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
         <mxCell id="ikqGebWyr_Hx67nsyN1L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0Dq-MpgtlUXQn1GNOlvV-8" target="ikqGebWyr_Hx67nsyN1L-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-8" value="with tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0Dq-MpgtlUXQn1GNOlvV-8" value="without tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="378.22" y="-350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PRRnBeqVcUnTKWBKBtko-2" value="`\text{overall cost of capital}=\ text{EBIT} / \text{Value of the firm}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -182,7 +182,7 @@
         <mxCell id="ikqGebWyr_Hx67nsyN1L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ikqGebWyr_Hx67nsyN1L-1" target="ikqGebWyr_Hx67nsyN1L-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikqGebWyr_Hx67nsyN1L-1" value="without tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ikqGebWyr_Hx67nsyN1L-1" value="with tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="618.22" y="-350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ikqGebWyr_Hx67nsyN1L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ikqGebWyr_Hx67nsyN1L-5" target="0Dq-MpgtlUXQn1GNOlvV-8" edge="1">
