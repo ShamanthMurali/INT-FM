@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T09:47:17.249Z" agent="5.0 (X11)" etag="71QxUoYfmVYL5Sy8OLsX" version="14.8.5" type="github"><diagram id="AE9PCFAKZsRjW13e8YS1" name="Page-1">ddG9DoMgEADgp2FHaBN3a9ulk0NnIlchQc8gjbZPXw0oJbYTx3fH30F40U4XK3p1QwmGMConwk+EsSyj+Tws8vJyyJiHxmoZiiJU+g0BadCnljAkhQ7RON2nWGPXQe0SE9bimJY90KSn9qKBHVS1MHu9a+mU1/xIo19BN8ptDw6ZVqzFAQYlJI5fxEvCC4vofNROBZileWtf/Lrzn+x2MQud+7FgDuLe8yT5IV5+AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-12T11:27:26.486Z" agent="5.0 (X11)" etag="TPovKJ5a5vnwC0O9mKzA" version="14.8.5" type="github">
+  <diagram id="AE9PCFAKZsRjW13e8YS1" name="Page-1">
+    <mxGraphModel dx="714" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-1" value="&lt;div&gt;Investment decision&lt;/div&gt;&lt;div&gt;(Capital budgeting)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-2" value="Profitability index method (PI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-3" value="&lt;div&gt;Internal rate of return&lt;/div&gt;&lt;div&gt;(IRR)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-4" value="&lt;div&gt;&amp;nbsp;Modified Internal rate of return&lt;/div&gt;&lt;div&gt;(MIRR)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-5" target="Flp0xYkeOaXPbPinkIUJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-5" target="Flp0xYkeOaXPbPinkIUJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-5" value="&lt;div&gt;Net present value&lt;/div&gt;&lt;div&gt;(NPV)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-6" target="Flp0xYkeOaXPbPinkIUJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-6" value="Payback period method (PBP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-7" value="Discounted payback period method (DPBP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-9" value="&lt;div&gt;Average rate of return&lt;/div&gt;&lt;div&gt;(ARR)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-10" target="Flp0xYkeOaXPbPinkIUJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-10" value="Select the project with the lowest payback period" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-12" value="&lt;div&gt;Problems with method&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. does not consider all the cash inflows&lt;/div&gt;&lt;div&gt;2. Ignores time value of money&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry y="190" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-15" target="Flp0xYkeOaXPbPinkIUJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-15" value="Compounding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-16" target="Flp0xYkeOaXPbPinkIUJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-16" value="Discounting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-17" target="Flp0xYkeOaXPbPinkIUJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-17" value="Present to future value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-18" target="Flp0xYkeOaXPbPinkIUJ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-18" value="Future to present value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-23" value="&lt;div&gt;`FV = PV (1+r)^n`&lt;/div&gt;&lt;div&gt;= PV * compounding &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; factor(CF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-24" value="&lt;div&gt;`PV = (FV)/ (1+r)^n`&lt;/div&gt;&lt;div&gt;= FV / Discounting&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; factor(PVF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
