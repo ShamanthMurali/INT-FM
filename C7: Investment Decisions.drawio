@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T11:27:26.486Z" agent="5.0 (X11)" etag="TPovKJ5a5vnwC0O9mKzA" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T11:28:07.004Z" agent="5.0 (X11)" etag="BbYfzNZoNE3NDLViUcJB" version="14.8.5" type="github">
   <diagram id="AE9PCFAKZsRjW13e8YS1" name="Page-1">
     <mxGraphModel dx="714" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -70,11 +70,33 @@
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-18" value="Future to present value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-23" target="Flp0xYkeOaXPbPinkIUJ-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="400" />
+              <mxPoint x="460" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-23" value="&lt;div&gt;`FV = PV (1+r)^n`&lt;/div&gt;&lt;div&gt;= PV * compounding &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; factor(CF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-24" target="Flp0xYkeOaXPbPinkIUJ-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="400" />
+              <mxPoint x="220" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-24" value="&lt;div&gt;`PV = (FV)/ (1+r)^n`&lt;/div&gt;&lt;div&gt;= FV / Discounting&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; factor(PVF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-27" value="&lt;div&gt;For&lt;/div&gt;&lt;div&gt;1 project&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-28" value="&lt;div&gt;For&lt;/div&gt;&lt;div&gt;Multiple project&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
