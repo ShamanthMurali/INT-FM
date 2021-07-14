@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T15:26:17.880Z" agent="5.0 (X11)" etag="WWHc95_CqmV1HNWO6bSM" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T15:26:29.726Z" agent="5.0 (X11)" etag="mXjncVnBblWZEK6Wr1EZ" version="14.8.5" type="github">
   <diagram id="AE9PCFAKZsRjW13e8YS1" name="Page-1">
     <mxGraphModel dx="1890" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -618,7 +618,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-1" value="&lt;div&gt;Note : when there is savings&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Saving in expenses is also considered to be a cash inflow&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; loss of income is considered to a cash outflow&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="660" width="280" height="80" as="geometry" />
+          <mxGeometry x="495" y="660" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61gDuUX2APdWrK0IA7os-3" target="61gDuUX2APdWrK0IA7os-9">
           <mxGeometry relative="1" as="geometry" />
@@ -627,34 +627,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-3" value="&lt;div&gt;Note 2 : when there are 2 projects with different project life&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Then there NPV is not comparable&lt;br&gt;&lt;/div&gt;&lt;div&gt;Annualized NPV must be calculated to make it comparable&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="760" width="330" height="66" as="geometry" />
+          <mxGeometry x="470" y="760" width="330" height="66" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-5" value="Use this formula on both the projects&lt;br&gt;&amp;gt;&amp;gt; the one with the least Annualized NPV is better" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1030" width="210" height="60" as="geometry" />
+          <mxGeometry x="530" y="1030" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61gDuUX2APdWrK0IA7os-6" target="61gDuUX2APdWrK0IA7os-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-6" value="`\text{Annualized NPV} = \text{Net PVCO}/\text{PVAF (x%; n years)}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="940" width="300" height="50" as="geometry" />
+          <mxGeometry x="320" y="940" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61gDuUX2APdWrK0IA7os-7" target="61gDuUX2APdWrK0IA7os-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-7" value="`\text{Annualized NPV} = \text{NPV}/\text{PVAF (x%; n years)}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="940" width="300" height="50" as="geometry" />
+          <mxGeometry x="660" y="940" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61gDuUX2APdWrK0IA7os-8" target="61gDuUX2APdWrK0IA7os-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-8" value="For Cash inflow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="872.89" width="120" height="40" as="geometry" />
+          <mxGeometry x="750" y="872.89" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="61gDuUX2APdWrK0IA7os-9" target="61gDuUX2APdWrK0IA7os-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61gDuUX2APdWrK0IA7os-9" value="For Expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="872.89" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="872.89" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
