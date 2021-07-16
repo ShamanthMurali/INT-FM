@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T23:34:08.894Z" agent="5.0 (X11)" etag="9VJwOOk0Zz53ptA5CpuZ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T23:34:49.138Z" agent="5.0 (X11)" etag="jP9IdQQHGQyxdNftx8nw" version="14.8.6" type="github">
   <diagram id="2TV7BhQEY2JXKRa9CzqE" name="Page-1">
-    <mxGraphModel dx="1444" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2318" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,8 +234,11 @@
         <mxCell id="oniMyYUpMcE3Te9QLlIt-80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/3qlVdIQ.png;" vertex="1" parent="1">
           <mxGeometry x="950" y="160" width="520" height="328" as="geometry" />
         </mxCell>
+        <mxCell id="oniMyYUpMcE3Te9QLlIt-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oniMyYUpMcE3Te9QLlIt-80" target="oniMyYUpMcE3Te9QLlIt-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-83" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="950" y="500" width="430" height="210" as="geometry" />
+          <mxGeometry x="995" y="510" width="430" height="210" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-84" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oniMyYUpMcE3Te9QLlIt-83">
           <mxGeometry width="430" height="40" as="geometry" />
@@ -316,7 +319,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-109" value="Variance `= (Sigma(x-barx)^2)/n`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="730" width="160" height="50" as="geometry" />
+          <mxGeometry x="1285" y="740" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.86;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oniMyYUpMcE3Te9QLlIt-104" target="oniMyYUpMcE3Te9QLlIt-109">
           <mxGeometry relative="1" as="geometry" />
@@ -325,22 +328,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-112" value="`sigma_x = sqrt{Variance}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="800" width="160" height="50" as="geometry" />
+          <mxGeometry x="1285" y="810" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oniMyYUpMcE3Te9QLlIt-114" target="oniMyYUpMcE3Te9QLlIt-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-114" value="Do the above for all the projects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="870" width="160" height="40" as="geometry" />
+          <mxGeometry x="1285" y="880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oniMyYUpMcE3Te9QLlIt-116" target="oniMyYUpMcE3Te9QLlIt-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-116" value="&lt;div&gt;Find coefficient of variance&lt;/div&gt;&lt;div&gt;`=sigma/barx`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="930" width="160" height="60" as="geometry" />
+          <mxGeometry x="1285" y="940" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-118" value="which evers coefficient of variance is lowest go for it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1010" width="160" height="40" as="geometry" />
+          <mxGeometry x="1285" y="1020" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
