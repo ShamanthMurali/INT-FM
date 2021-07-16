@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T23:33:15.312Z" agent="5.0 (X11)" etag="VIsQEMCWTvvuTLPE2RGM" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T23:34:08.894Z" agent="5.0 (X11)" etag="9VJwOOk0Zz53ptA5CpuZ" version="14.8.6" type="github">
   <diagram id="2TV7BhQEY2JXKRa9CzqE" name="Page-1">
     <mxGraphModel dx="1444" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -333,8 +333,14 @@
         <mxCell id="oniMyYUpMcE3Te9QLlIt-114" value="Do the above for all the projects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="870" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oniMyYUpMcE3Te9QLlIt-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oniMyYUpMcE3Te9QLlIt-116" target="oniMyYUpMcE3Te9QLlIt-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-116" value="&lt;div&gt;Find coefficient of variance&lt;/div&gt;&lt;div&gt;`=sigma/barx`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="930" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oniMyYUpMcE3Te9QLlIt-118" value="which evers coefficient of variance is lowest go for it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1010" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
