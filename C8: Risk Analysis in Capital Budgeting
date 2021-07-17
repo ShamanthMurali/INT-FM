@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T16:13:58.848Z" agent="5.0 (X11)" etag="r8OHcNvUsDlCl3WF3oq0" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-17T16:50:38.588Z" agent="5.0 (X11)" etag="iVO0FV8dHPN6Qswhns81" version="14.8.6" type="github">
   <diagram id="2TV7BhQEY2JXKRa9CzqE" name="Page-1">
-    <mxGraphModel dx="1958" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1712" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -453,7 +453,7 @@
         <mxCell id="oniMyYUpMcE3Te9QLlIt-158" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="oniMyYUpMcE3Te9QLlIt-144" vertex="1">
           <mxGeometry x="215" width="107" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oniMyYUpMcE3Te9QLlIt-153" value="`barx=(Sigmay)/n`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="oniMyYUpMcE3Te9QLlIt-144" vertex="1">
+        <mxCell id="oniMyYUpMcE3Te9QLlIt-153" value="`barx=Sigmay`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="oniMyYUpMcE3Te9QLlIt-144" vertex="1">
           <mxGeometry x="322" width="107" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oniMyYUpMcE3Te9QLlIt-147" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="oniMyYUpMcE3Te9QLlIt-144" vertex="1">
@@ -497,6 +497,9 @@
         </mxCell>
         <mxCell id="y-Iskn59TRSbb1CPbIKX-1" value="Terminal value = Salvage value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y-Iskn59TRSbb1CPbIKX-2" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="350" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
