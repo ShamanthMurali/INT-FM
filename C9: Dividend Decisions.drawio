@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T15:38:08.686Z" agent="5.0 (X11)" etag="aEjgeEvemkhgCxpwF4ZN" version="14.9.0" type="github"><diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">ddG9DoMgEADgp2FHaBN3a9ulk0NnIlchQc8gjbZPXw0oJbYTx3fH30F40U4XK3p1QwmGMConwk+EsSyj+Tws8vJyyJiHxmoZiiJU+g0BadCnljAkhQ7RON2nWGPXQe0SE9bimJY90KSn9qKBHVS1MHu9a+mU1/xIo19BN8ptDw6ZVqzFAQYlJI5fxEvCC4vofNROBZileWtf/Lrzn+x2MQud+7FgDuLe8yT5IV5+AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-18T16:02:43.352Z" agent="5.0 (X11)" etag="GDgiJFbSuA3EdST5v-Yq" version="14.9.0" type="github">
+  <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
+    <mxGraphModel dx="1351" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-1" value="Theories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-2" value="Dividend relevance theories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-3" target="FfrZzuDR7c2tN7gIPPPY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-3" value="Dividend irrelavance theories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-4" target="FfrZzuDR7c2tN7gIPPPY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-4" target="FfrZzuDR7c2tN7gIPPPY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-4" value="Practical approachs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-8" value="Gordons and dodd model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-9" value="Gordon&#39;s model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-10" value="Walters model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-14" value="MM approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-16" value="lintners approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-17" value="residual approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-21" target="FfrZzuDR7c2tN7gIPPPY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-21" value="Valuation of equity share" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-22" value="`V_0 = (CI_(yr 1))/(1+DF)^1+(CI_(yr 2))/(1+DF)^2+...`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="380" width="290" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
