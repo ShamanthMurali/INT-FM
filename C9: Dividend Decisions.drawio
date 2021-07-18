@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T16:31:22.990Z" agent="5.0 (X11)" etag="Uf-6TY9RMkxOGX6xgdlK" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T17:20:17.073Z" agent="5.0 (X11)" etag="qjg8dcxck_LJ5glV0gps" version="14.9.0" type="github">
   <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
     <mxGraphModel dx="1566" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -116,10 +116,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-42" value="&lt;div&gt;Constant Growth model&lt;/div&gt;&lt;div&gt;Gordons formula&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="580" width="160" height="60" as="geometry" />
+          <mxGeometry x="440" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-43" value="&lt;u&gt;&lt;b&gt;Assumptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;1. Cos as expected to have\ Infinite life&lt;/div&gt;2.&amp;nbsp; Growth(`G`) rate is constant&lt;br&gt;&lt;div&gt;3. `K_e` is constant&lt;/div&gt;&lt;div&gt;4. `K_e &amp;gt; G`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="660" width="190" height="110" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-43" target="FfrZzuDR7c2tN7gIPPPY-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-43" value="&lt;u&gt;&lt;b&gt;Assumptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;1. Cos as expected to have\ Infinite life&lt;/div&gt;2.&amp;nbsp; Growth(`g`) rate is constant&lt;br&gt;&lt;div&gt;3. `K_e` is constant&lt;/div&gt;&lt;div&gt;4. `K_e &amp;gt; g`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="400" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-45" value="`P_0 = D/(K_e - g)`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-47" target="FfrZzuDR7c2tN7gIPPPY-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-47" value="Calculation of growth rate between non consecutive years" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="695" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-48" value="`A_n = P (1 + g)^n`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="780" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-50" target="FfrZzuDR7c2tN7gIPPPY-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-50" value="&lt;div&gt;Variable + Constant Growth model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-51" value="When growth rate is uneven" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
