@@ -1,149 +1,185 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T17:20:17.073Z" agent="5.0 (X11)" etag="qjg8dcxck_LJ5glV0gps" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T18:57:53.195Z" agent="5.0 (X11)" etag="9qPWwEaWHhBXgB-ChIqw" version="14.9.3" type="github">
   <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
-    <mxGraphModel dx="1566" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4823" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-3">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-2">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-4">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-1" target="FfrZzuDR7c2tN7gIPPPY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-1" value="Theories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-1" value="Theories" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-9">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-10">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-8">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-2" target="FfrZzuDR7c2tN7gIPPPY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-2" value="Dividend relevance theories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-2" value="Dividend relevance theories" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-3" target="FfrZzuDR7c2tN7gIPPPY-14">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-3" target="FfrZzuDR7c2tN7gIPPPY-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-3" value="Dividend irrelavance theories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-3" value="Dividend irrelavance theories" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-4" target="FfrZzuDR7c2tN7gIPPPY-17">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-4" target="FfrZzuDR7c2tN7gIPPPY-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-4" target="FfrZzuDR7c2tN7gIPPPY-16">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-4" target="FfrZzuDR7c2tN7gIPPPY-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-4" value="Practical approachs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-4" value="Practical approachs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-8" value="Gordons and dodd model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-8" value="Gordons and dodd model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-9" value="Gordon&#39;s model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-9" value="Gordon&#39;s model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-10" value="Walters model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-10" target="fYGMT4JVDmkjtTubi5wR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-10" value="Walters model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-14" value="MM approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-14" value="MM approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-16" value="lintners approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-16" value="lintners approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-17" value="residual approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-17" value="residual approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-21" target="FfrZzuDR7c2tN7gIPPPY-22">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-21" target="FfrZzuDR7c2tN7gIPPPY-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-21" value="Valuation of assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-21" value="Valuation of assets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-835" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-22" value="`V_0 = (CI_(yr 1))/(1+DF)^1+(CI_(yr 2))/(1+DF)^2+...`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="460" width="290" height="60" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-22" value="`V_0 = (CI_(yr 1))/(1+DF)^1+(CI_(yr 2))/(1+DF)^2+...`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-920" y="270" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-24" target="FfrZzuDR7c2tN7gIPPPY-21">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-24" target="FfrZzuDR7c2tN7gIPPPY-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-24" target="FfrZzuDR7c2tN7gIPPPY-29">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-24" target="FfrZzuDR7c2tN7gIPPPY-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-24" value="Valuation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-24" value="Valuation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1000" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-29" value="Valuation of equity share" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-29" value="Valuation of equity share" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1145" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FfrZzuDR7c2tN7gIPPPY-29" target="FfrZzuDR7c2tN7gIPPPY-31" parent="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-29" target="FfrZzuDR7c2tN7gIPPPY-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-31" value="`V_0 = (CI_(yr 1))/(1+K_e)^1+(CI_(yr 2))/(1+K_e)^2+...`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="460" width="290" height="60" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-31" value="`V_0 = (CI_(yr 1))/(1+K_e)^1+(CI_(yr 2))/(1+K_e)^2+...`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1230" y="270" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-33" target="FfrZzuDR7c2tN7gIPPPY-38">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-33" target="FfrZzuDR7c2tN7gIPPPY-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-33" value="&lt;div&gt;Constant dividend model / &lt;br&gt;&lt;/div&gt;&lt;div&gt;no growth model&lt;span style=&quot;white-space: pre&quot;&gt;  / &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;Zero growth model&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="520" width="160" height="60" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-33" value="&lt;div&gt;Constant dividend model / &lt;br&gt;&lt;/div&gt;&lt;div&gt;no growth model&lt;span style=&quot;white-space: pre&quot;&gt;  / &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;Zero growth model&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1420" y="130" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-34" target="FfrZzuDR7c2tN7gIPPPY-36">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-34" target="FfrZzuDR7c2tN7gIPPPY-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-34" value="`P_0 = D/K_e`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="705" width="80" height="60" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-34" value="`P_0 = D/K_e`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="315" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-36" value="&lt;div&gt;Po = expected price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;estimated price&amp;nbsp; / &lt;br&gt;&lt;/div&gt;&lt;div&gt;indicated price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;equilibrium value /&lt;/div&gt;&lt;div&gt; fair value /&lt;/div&gt;&lt;div&gt; true value /&lt;/div&gt;&lt;div&gt; justifiable value /&lt;/div&gt;&lt;div&gt; intrinsic value /&lt;/div&gt;&lt;div&gt; maximum price payable per share&lt;/div&gt;&lt;br&gt;D = expected Dividend per share" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="650" width="200" height="170" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-36" value="&lt;div&gt;Po = expected price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;estimated price&amp;nbsp; / &lt;br&gt;&lt;/div&gt;&lt;div&gt;indicated price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;equilibrium value /&lt;/div&gt;&lt;div&gt; fair value /&lt;/div&gt;&lt;div&gt; true value /&lt;/div&gt;&lt;div&gt; justifiable value /&lt;/div&gt;&lt;div&gt; intrinsic value /&lt;/div&gt;&lt;div&gt; maximum price payable per share&lt;/div&gt;&lt;br&gt;D = expected Dividend per share" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1660" y="260" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-38" target="FfrZzuDR7c2tN7gIPPPY-34">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-38" target="FfrZzuDR7c2tN7gIPPPY-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-38" value="Assumptions&lt;br&gt;&lt;div&gt;① Cos as expected to have\ Infinite life&lt;/div&gt;② D is constant&lt;br&gt;③ `K_e` is constant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-445" y="600" width="190" height="80" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-38" value="Assumptions&lt;br&gt;&lt;div&gt;① Cos as expected to have\ Infinite life&lt;/div&gt;② D is constant&lt;br&gt;③ `K_e` is constant" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1435" y="210" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-42" target="FfrZzuDR7c2tN7gIPPPY-43">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-42" target="FfrZzuDR7c2tN7gIPPPY-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-42" value="&lt;div&gt;Constant Growth model&lt;/div&gt;&lt;div&gt;Gordons formula&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="160" height="60" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-42" value="&lt;div&gt;Constant Growth model&lt;/div&gt;&lt;div&gt;Gordons formula&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-605" y="130" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-43" target="FfrZzuDR7c2tN7gIPPPY-45">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-43" target="FfrZzuDR7c2tN7gIPPPY-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-43" value="&lt;u&gt;&lt;b&gt;Assumptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;1. Cos as expected to have\ Infinite life&lt;/div&gt;2.&amp;nbsp; Growth(`g`) rate is constant&lt;br&gt;&lt;div&gt;3. `K_e` is constant&lt;/div&gt;&lt;div&gt;4. `K_e &amp;gt; g`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="400" width="190" height="110" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-43" value="&lt;u&gt;&lt;b&gt;Assumptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;1. Cos as expected to have\ Infinite life&lt;/div&gt;2.&amp;nbsp; Growth(`g`) rate is constant&lt;br&gt;&lt;div&gt;3. `K_e` is constant&lt;/div&gt;&lt;div&gt;4. `K_e &amp;gt; g`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-620" y="210" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-45" value="`P_0 = D/(K_e - g)`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-45" value="`P_0 = D/(K_e - g)`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-585" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-47" target="FfrZzuDR7c2tN7gIPPPY-48">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-47" target="FfrZzuDR7c2tN7gIPPPY-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-47" value="Calculation of growth rate between non consecutive years" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="695" width="160" height="65" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-47" value="Calculation of growth rate between non consecutive years" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="60" width="160" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-48" value="`A_n = P (1 + g)^n`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="780" width="200" height="40" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-48" value="`A_n = P (1 + g)^n`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1700" y="145" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FfrZzuDR7c2tN7gIPPPY-50" target="FfrZzuDR7c2tN7gIPPPY-51">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-50" target="FfrZzuDR7c2tN7gIPPPY-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-50" value="&lt;div&gt;Variable + Constant Growth model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="160" height="60" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-50" value="&lt;div&gt;Variable + Constant Growth model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-420" y="130" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-51" value="When growth rate is uneven" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-51" value="When growth rate is uneven" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fYGMT4JVDmkjtTubi5wR-1" target="FfrZzuDR7c2tN7gIPPPY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYGMT4JVDmkjtTubi5wR-1" target="FfrZzuDR7c2tN7gIPPPY-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYGMT4JVDmkjtTubi5wR-1" target="FfrZzuDR7c2tN7gIPPPY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYGMT4JVDmkjtTubi5wR-1" target="FfrZzuDR7c2tN7gIPPPY-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-1" value="Valuation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-8" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYGMT4JVDmkjtTubi5wR-9" target="fYGMT4JVDmkjtTubi5wR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-9" value="`P_0 = (D + (E-D)(r/K_e))/K_e `" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="560" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYGMT4JVDmkjtTubi5wR-10" target="fYGMT4JVDmkjtTubi5wR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-10" value="&lt;div&gt;Dividend is considered to be relevant in determining the MP&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when `r &amp;gt; K_e` it means cos is having better opportunities for investments as compared to ESH and hence in the interest of ESH the cos should not distribute any amount of profits as dividends as this will maximise the MP of the share&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if `r &amp;lt; K_e` it means ESH have better opportuinties for investments as compared to cos and hence in the interest of ESH the cos should distribute entire profits as dividends as this will maximize the MP of share&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when `r=K_e` dividend policy will have no effect on the MP of the share&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is also known as &#39;&lt;u&gt;&lt;b&gt;All or nothing approach&lt;/b&gt;&lt;/u&gt;&#39;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="300" width="410" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-13" value="&lt;div&gt;`P_0` = Price of share&lt;br&gt;&lt;/div&gt;&lt;div&gt;D = expected dividend per share&lt;br&gt;&lt;/div&gt;&lt;div&gt;E = expected earning per share&lt;br&gt;&lt;/div&gt;&lt;div&gt;r = return on equity or productivity of retained earning&lt;/div&gt;&lt;div&gt;`K_e` = cost of equity&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="650" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
