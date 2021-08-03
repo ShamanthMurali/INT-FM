@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T00:04:26.058Z" agent="5.0 (X11)" etag="OHK6qnikW_D27_NaIqUx" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T01:24:13.611Z" agent="5.0 (X11)" etag="FXOfnC4C3xR0goSdXgxR" version="14.9.3" type="github">
   <diagram id="UIdEuoUsaXTuPdmNOl_K" name="Page-1">
-    <mxGraphModel dx="2636" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1564" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,14 +346,26 @@
         <mxCell id="ufE-h0je06OX1Rb8H367-4" value="maturity factoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ufE-h0je06OX1Rb8H367-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufE-h0je06OX1Rb8H367-5" target="ufE-h0je06OX1Rb8H367-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ufE-h0je06OX1Rb8H367-5" value="recourse factoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ufE-h0je06OX1Rb8H367-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufE-h0je06OX1Rb8H367-6" target="ufE-h0je06OX1Rb8H367-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ufE-h0je06OX1Rb8H367-6" value="Non recourse factoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ufE-h0je06OX1Rb8H367-7" value="Advance factoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ufE-h0je06OX1Rb8H367-8" value="factor is unable to collect the amount from receivables(BD) then, factor can turn back&amp;nbsp; the same to the organization for resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ufE-h0je06OX1Rb8H367-10" value="factor bears the ultimate risk of loss in case of default and hence in such cases they charge higher commission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="300" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
