@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T01:24:13.611Z" agent="5.0 (X11)" etag="FXOfnC4C3xR0goSdXgxR" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T16:51:57.523Z" agent="5.0 (X11)" etag="RHCW4SMFIehzuBlK_QEl" version="14.9.4" type="github">
   <diagram id="UIdEuoUsaXTuPdmNOl_K" name="Page-1">
-    <mxGraphModel dx="1564" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2636" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,38 +334,107 @@
         <mxCell id="TEneHz3vgo_vVxwvp9M7-1" value="&lt;div&gt;`2/10&amp;nbsp; \text{net}&amp;nbsp; 30` &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2% discount if paid within 10 days, else normal credit period is 30 days&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="90" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-1" value="if the question does not give average collection period when there are multiple plans calculate weighted average collection period otherwise if question gives average collection period no need to calculate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-1" value="if the question does not give average collection period when there are multiple plans calculate weighted average collection period otherwise if question gives average collection period no need to calculate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="210" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-2" value="Factoring agreement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-2" value="Factoring agreement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-3" value="Types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-3" value="Types" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-4" value="maturity factoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-4" value="maturity factoring" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufE-h0je06OX1Rb8H367-5" target="ufE-h0je06OX1Rb8H367-8">
+        <mxCell id="ufE-h0je06OX1Rb8H367-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ufE-h0je06OX1Rb8H367-5" target="ufE-h0je06OX1Rb8H367-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-5" value="recourse factoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-5" value="recourse factoring" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufE-h0je06OX1Rb8H367-6" target="ufE-h0je06OX1Rb8H367-10">
+        <mxCell id="ufE-h0je06OX1Rb8H367-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ufE-h0je06OX1Rb8H367-6" target="ufE-h0je06OX1Rb8H367-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-6" value="Non recourse factoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-6" value="Non recourse factoring" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-7" value="Advance factoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-7" value="Advance factoring" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-8" value="factor is unable to collect the amount from receivables(BD) then, factor can turn back&amp;nbsp; the same to the organization for resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-8" value="factor is unable to collect the amount from receivables(BD) then, factor can turn back&amp;nbsp; the same to the organization for resolution" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="300" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ufE-h0je06OX1Rb8H367-10" value="factor bears the ultimate risk of loss in case of default and hence in such cases they charge higher commission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufE-h0je06OX1Rb8H367-10" value="factor bears the ultimate risk of loss in case of default and hence in such cases they charge higher commission" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-1" value="&lt;div&gt;Note : when is question is silent on who will take the bad debts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;assume non recourse factoring&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="100" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="320" width="430" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-2">
+          <mxGeometry width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-4" value="Particulars" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-3">
+          <mxGeometry width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-5" value="Amt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-3">
+          <mxGeometry x="230" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-2">
+          <mxGeometry y="20" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-7" value="Amount receivable from factor for whole year" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-6">
+          <mxGeometry width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-8" value="&lt;div&gt;x&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(total cr sales)&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-6">
+          <mxGeometry x="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-2">
+          <mxGeometry y="60" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-10" value="Amount receivable for every x number of days&lt;font style=&quot;font-size: 8px&quot;&gt;(find out by doing cross multiplication)&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-9">
+          <mxGeometry width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-11" value="`y`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-9">
+          <mxGeometry x="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-2">
+          <mxGeometry y="100" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-13" value="(-) Factor reserve @ g%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-12">
+          <mxGeometry width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-14" value="`y xx g%`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-12">
+          <mxGeometry x="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-15" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-2">
+          <mxGeometry y="140" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-16" value="(-) Commission @ z%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-15">
+          <mxGeometry width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-17" value="`y xx z%`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-15">
+          <mxGeometry x="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-18" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-2">
+          <mxGeometry y="180" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-19" value="Advance from factor (After deducting commission and factor reserve)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-18">
+          <mxGeometry width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-20" value="xxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-18">
+          <mxGeometry x="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-21" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-2">
+          <mxGeometry y="220" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-22" value="&lt;div&gt;&lt;b&gt;Interest on advance charged by factor &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;@ m% for x number of days&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-21">
+          <mxGeometry width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mbxdkunzV3tHmJ2daRqV-23" value="`\text{xxx} xx m% p.a xx \text{x days}/360`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mbxdkunzV3tHmJ2daRqV-21">
+          <mxGeometry x="230" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
