@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T20:51:50.941Z" agent="5.0 (X11)" etag="DvyZNFpoxr_qJNOvRHmh" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T22:23:53.532Z" agent="5.0 (X11)" etag="t-kpb7gip87a-YlUSX6B" version="14.9.4" type="github">
   <diagram id="sMXiV06eMUX1r8Gc8Mpe" name="Page-1">
-    <mxGraphModel dx="2103" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2324" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,20 +127,152 @@
         <mxCell id="9jcXlWBaS0kGvRiVqAq9-37" value="`\text{Avg. Creditors}/\text{Cr. Purchases}xx \text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="300" width="280" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jcXlWBaS0kGvRiVqAq9-39" target="9jcXlWBaS0kGvRiVqAq9-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9jcXlWBaS0kGvRiVqAq9-39" value="`\text{Avg. Stock of RM}=\text{RM consumed}xx \text{Avg holding period of RM}/ \text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="90" width="480" height="50" as="geometry" />
+          <mxGeometry x="-420" y="260" width="480" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9jcXlWBaS0kGvRiVqAq9-40" value="`\text{Avg. Stock of WIP}=\text{COP}xx \text{Avg conversion period}/ \text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="150" width="480" height="50" as="geometry" />
+          <mxGeometry x="-420" y="330" width="480" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9jcXlWBaS0kGvRiVqAq9-41" value="`\text{Avg. Stock of FG}=\text{COGS}xx \text{Avg holding period of FG}/ \text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="210" width="480" height="50" as="geometry" />
+          <mxGeometry x="-665" y="400" width="480" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9jcXlWBaS0kGvRiVqAq9-42" value="`\text{Avg. Debtors}=\text{Cr. Sales}xx \text{Avg Collection period}/ \text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="270" width="480" height="50" as="geometry" />
+          <mxGeometry x="-665" y="460" width="480" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9jcXlWBaS0kGvRiVqAq9-43" value="`\text{Avg. Creditors}=\text{Cr. Purchases}xx \text{Avg Payment period}/ \text{365/52/12}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="330" width="480" height="50" as="geometry" />
+          <mxGeometry x="-665" y="520" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-44" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="360" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-45" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-46" value="Particulars" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-45">
+          <mxGeometry width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-47" value="Amt." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-45">
+          <mxGeometry x="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-48" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="20" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-49" value="Raw materials consumed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-48">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-50" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-48">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-51" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="60" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-52" value="Direct wages" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-51">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-53" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-51">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-54" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="100" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-55" value="Manufacturing expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-54">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-56" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-54">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-57" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="140" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-58" value="Depreciation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-57">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-59" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-57">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-60" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="180" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-61" value="Cost of production (COP)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-60">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-62" value="xxxxxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-60">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-63" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="220" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-64" value="(+) Opening FG" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-63">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-65" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-63">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-66" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="260" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-67" value="(-) Closing FG" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-66">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-68" value="(xx)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-66">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-69" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="300" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-70" value="Cost of goods sold" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-69">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-71" value="xxxxxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-69">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-72" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="340" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-73" value="Administrative Expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-72">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-74" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-72">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-75" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="380" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-76" value="Selling Expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-75">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-77" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-75">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-78" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="420" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-79" value="Total Cost" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-78">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-80" value="xxxxxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-78">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-81" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="460" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-82" value="(+) Profit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-81">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-83" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-81">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-84" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-44">
+          <mxGeometry y="500" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-85" value="Sales" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-84">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-86" value="XXXXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9jcXlWBaS0kGvRiVqAq9-84">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
