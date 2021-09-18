@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T06:27:24.469Z" agent="5.0 (X11)" etag="L8bBBFDOvG2zAg4nFYYY" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T06:37:47.065Z" agent="5.0 (X11)" etag="hq2eHlfcYubY3Tas8Jmy" version="15.2.9" type="github">
   <diagram id="sMXiV06eMUX1r8Gc8Mpe" name="Page-1">
-    <mxGraphModel dx="3066" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1712" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,7 +443,7 @@
         <mxCell id="9jcXlWBaS0kGvRiVqAq9-116" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="9jcXlWBaS0kGvRiVqAq9-89" vertex="1">
           <mxGeometry y="350" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jcXlWBaS0kGvRiVqAq9-117" value="&lt;div&gt;[A] - [B]&lt;/div&gt;&lt;div&gt;(+) x% safety margin&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="9jcXlWBaS0kGvRiVqAq9-116" vertex="1">
+        <mxCell id="9jcXlWBaS0kGvRiVqAq9-117" value="&lt;div&gt;&amp;nbsp;Required working capital = [A] - [B]&lt;/div&gt;&lt;div&gt;(+) x% safety margin&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="9jcXlWBaS0kGvRiVqAq9-116" vertex="1">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jcXlWBaS0kGvRiVqAq9-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="9jcXlWBaS0kGvRiVqAq9-116" vertex="1">
