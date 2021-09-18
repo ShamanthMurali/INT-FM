@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T06:37:47.065Z" agent="5.0 (X11)" etag="hq2eHlfcYubY3Tas8Jmy" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T07:30:09.482Z" agent="5.0 (X11)" etag="F9BT5rikq1K42AEvPEMV" version="15.2.9" type="github">
   <diagram id="sMXiV06eMUX1r8Gc8Mpe" name="Page-1">
-    <mxGraphModel dx="1712" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2636" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,6 +460,12 @@
         </mxCell>
         <mxCell id="TFXgV1HYSDymXUe3D6lD-3" value="Expenses like DW, OH given in question are usually O/S so dont forget to put them here" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TFXgV1HYSDymXUe3D6lD-9" value="" style="shape=stencil(7VnLUhtBDPwaX1UzI83rTMh/UIUJrhBMGef195HjWsDbSy9zyyE3s0g7erSkHu1Gr57vb562mxSej4f91+3P3e3xfqOfNintHu+3h93Rf230eqNXd/vD9sth//3x9vz3081J8vTr2/7H6Q2/znpBQjgppfD7/KB3Kfb3yeez/MPucUW+tTH5roPyeVC+DMjH8PLoHQVtgwq1DilEiXlQIdugQk9DCkk0DimohLEomZRLk1byVuZBOsnH9+Xb3KATTisJEaTNFSoBdjRJCpXDktCkgQuJnLAQI38FqR1FH5okUjxa53nuVTI5wdDpIoWENQNWe6b9JWOUTHIiwEBkqCjJQwWs9iSBmFQ7OO2BJgotz5tM62JMoc8z3ZpEAg130cqlQqFt2NM0y4MbWUn9OHLmJ5gYwVJHH1QScfpNh3jR8EQQMC0cEaSTVHcAU+U12qFtVF5BHtdZa61lOnNZIc9rtGbaBTqAyQFMM6fgdKSttUO3r0EiOwEmVvEokRpFfHvVsrA2yEMxfgLguySJxOkGzbU4HDtRSFL6hYK3qsBMgm6cCx2JFdCaPZVMAZz2dsvgXaF9mzcmAr4K7dt8ZJASLdArLYuSsBYoIFN+AvoQab8v4IN2icQkHEE+JxOphww1rV60TAGwpEkqQatBAfmsNzaoYSqmSpuAgUkpU2goZNpZYyf1oBAlp8psoiiYFHnFKZL7LI0oJOA/UaWQKCEli5HSGWTSziqJz3g/4WmL2Cin+8qyPLQMk05qIcL0Uc6KYfg4sNn7gYwlmuKImKDMKkL8A/d3Qb5ye0A+s/gsyNugPaxmFuXZpeS//L8nP5pfhh+4+q/gE6hdkEYmWcT1yFTQy9QR+idlB3AJibR7QjvnHBBnpGQ2Iue2+7wjRAWuaJzXICWYHnxspWNjOyZnUcQYoK5GUQYgMLoUgBlnFGML4n1kQ+kjbGThmCmAl4yhkRl0FQKZ2XTDrLKtAfQOPsuXAMwoJ5YHW1YhG5REAolMjV6NgMJ7n2FtFQK/QhPgTjFOE2jbBloUphd8kHYFioQIyQp0BYY0cGXhDNldkQdaumIP0F73l4ANCyvQdQLus/0F7F6wYD8rXF2wh/UFhfjzMYuXM45/w/39BJAPXi+9HIm/BoOcb/pynHZir/JK7MlQX0mMvX9B/nL0+4/XT2Z3u4eH8xe3t/+ff2LzR+fPc3r9Bw==);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116.27586206896558" y="198.25862068965523" width="22.413793103448278" height="191.81034482758622" as="geometry" />
+        </mxCell>
+        <mxCell id="TFXgV1HYSDymXUe3D6lD-11" value="only manufacturing OH has to be absorbed here, do not consider regular OH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="180" height="48.26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
