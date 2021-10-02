@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T20:14:48.751Z" agent="5.0 (X11)" etag="ZJqlxSUvXD6WUO0RYO3C" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-02T20:17:03.067Z" agent="5.0 (X11)" etag="d4eKR9SX59f-jiD4xyEV" version="15.4.1" type="github">
   <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
     <mxGraphModel dx="3658" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -118,10 +118,10 @@
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-34" target="FfrZzuDR7c2tN7gIPPPY-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-34" value="`P_0 = (D_0(1+g))/K_e`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-34" value="`P_0 = (D_0(1+g))/(K_e-g)`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="315" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-36" value="&lt;div&gt;Po = expected price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;estimated price&amp;nbsp; / &lt;br&gt;&lt;/div&gt;&lt;div&gt;indicated price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;equilibrium value /&lt;/div&gt;&lt;div&gt; fair value /&lt;/div&gt;&lt;div&gt; true value /&lt;/div&gt;&lt;div&gt; justifiable value /&lt;/div&gt;&lt;div&gt; intrinsic value /&lt;/div&gt;&lt;div&gt; maximum price payable per share&lt;/div&gt;&lt;br&gt;D = expected Dividend per share" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-36" value="&lt;div&gt;Po = expected price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;estimated price&amp;nbsp; / &lt;br&gt;&lt;/div&gt;&lt;div&gt;indicated price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;equilibrium value /&lt;/div&gt;&lt;div&gt; fair value /&lt;/div&gt;&lt;div&gt; true value /&lt;/div&gt;&lt;div&gt; justifiable value /&lt;/div&gt;&lt;div&gt; intrinsic value /&lt;/div&gt;&lt;div&gt; maximum price payable per share&lt;/div&gt;&lt;br&gt;D = expected Dividend per share" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1660" y="260" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-38" target="FfrZzuDR7c2tN7gIPPPY-34" edge="1">
@@ -142,7 +142,7 @@
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-43" value="&lt;u&gt;&lt;b&gt;Assumptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;1. Cos as expected to have\ Infinite life&lt;/div&gt;2.&amp;nbsp; Growth(`g`) rate is constant&lt;br&gt;&lt;div&gt;3. `K_e` is constant&lt;/div&gt;&lt;div&gt;4. `K_e &amp;gt; g`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="380" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-45" value="`P_0 = (D_0(1+g))/(K_e-g)`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-45" value="`P_0 = (D_0(1+g))/(K_e-g)`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="35" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-47" target="FfrZzuDR7c2tN7gIPPPY-48" edge="1">
@@ -181,7 +181,7 @@
         <mxCell id="fYGMT4JVDmkjtTubi5wR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fYGMT4JVDmkjtTubi5wR-9" target="fYGMT4JVDmkjtTubi5wR-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fYGMT4JVDmkjtTubi5wR-9" value="`P_0 = (D + (E-D)(r/K_e))/K_e `" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-9" value="`P_0 = (D + (E-D)(r/K_e))/K_e `" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-325" y="560" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fYGMT4JVDmkjtTubi5wR-10" target="fYGMT4JVDmkjtTubi5wR-9" edge="1">
@@ -190,13 +190,13 @@
         <mxCell id="fYGMT4JVDmkjtTubi5wR-10" value="&lt;div&gt;Dividend is considered to be relevant in determining the MP&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when `r &amp;gt; K_e` it means cos is having better opportunities for investments as compared to ESH and hence in the interest of ESH the cos should not distribute any amount of profits as dividends as this will maximise the MP of the share&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if `r &amp;lt; K_e` it means ESH have better opportuinties for investments as compared to cos and hence in the interest of ESH the cos should distribute entire profits as dividends as this will maximize the MP of share&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when `r=K_e` dividend policy will have no effect on the MP of the share&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is also known as &#39;&lt;u&gt;&lt;b&gt;All or nothing approach&lt;/b&gt;&lt;/u&gt;&#39;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="300" width="410" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="fYGMT4JVDmkjtTubi5wR-13" value="&lt;div&gt;`P_0` = Price of share&lt;br&gt;&lt;/div&gt;&lt;div&gt;D = expected dividend per share&lt;br&gt;&lt;/div&gt;&lt;div&gt;E = expected earning per share&lt;br&gt;&lt;/div&gt;&lt;div&gt;r = return on equity or productivity of retained earning&lt;/div&gt;&lt;div&gt;`K_e` = cost of equity&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-13" value="&lt;div&gt;`P_0` = Price of share&lt;br&gt;&lt;/div&gt;&lt;div&gt;D = expected dividend per share&lt;br&gt;&lt;/div&gt;&lt;div&gt;E = expected earning per share&lt;br&gt;&lt;/div&gt;&lt;div&gt;r = return on equity or productivity of retained earning&lt;/div&gt;&lt;div&gt;`K_e` = cost of equity&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-330" y="650" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fYGMT4JVDmkjtTubi5wR-17" target="fYGMT4JVDmkjtTubi5wR-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fYGMT4JVDmkjtTubi5wR-17" value="`P_0 = (D_1 + P_1)/(1 + K_e)`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-17" value="`P_0 = (D_1 + P_1)/(1 + K_e)`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="557.5" y="300" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fYGMT4JVDmkjtTubi5wR-19" target="fYGMT4JVDmkjtTubi5wR-21" edge="1">
@@ -222,7 +222,7 @@
         <mxCell id="fYGMT4JVDmkjtTubi5wR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fYGMT4JVDmkjtTubi5wR-30" target="fYGMT4JVDmkjtTubi5wR-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fYGMT4JVDmkjtTubi5wR-30" value="`P_0 = m * (D+E/3)`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-30" value="`P_0 = m * (D+E/3)`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="260" y="300" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-32" value="&lt;div&gt;This model is also known as traditional approach or bird in hand approach&lt;/div&gt;&lt;div&gt;as per graham and dodd assign more weightage to current dividend over distant dividend and the weight assigned is 4 times current dividend to distant dividend&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -234,7 +234,7 @@
         <mxCell id="fYGMT4JVDmkjtTubi5wR-33" value="m = multiplier" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="380" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="fYGMT4JVDmkjtTubi5wR-36" value="&lt;div&gt;Growth = `b * r`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b = retention ratio&lt;/div&gt;&lt;div&gt;r = return on equity&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-36" value="&lt;div&gt;Growth = `b * r`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b = retention ratio&lt;/div&gt;&lt;div&gt;r = return on equity&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1920" y="60" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-37" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
