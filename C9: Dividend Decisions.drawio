@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T22:22:53.093Z" agent="5.0 (X11)" etag="LGGc4m6AIoYrSmq9eiiy" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-02T18:45:20.972Z" agent="5.0 (X11)" etag="kMMZsC1dVYXBVX3KskZo" version="15.4.1" type="github">
   <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
-    <mxGraphModel dx="4133" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3078" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,8 +118,8 @@
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-34" target="FfrZzuDR7c2tN7gIPPPY-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-34" value="`P_0 = D/K_e`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1380" y="315" width="80" height="60" as="geometry" />
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-34" value="`P_0 = (D_0(1+g))/K_e`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1400" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-36" value="&lt;div&gt;Po = expected price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;estimated price&amp;nbsp; / &lt;br&gt;&lt;/div&gt;&lt;div&gt;indicated price / &lt;br&gt;&lt;/div&gt;&lt;div&gt;equilibrium value /&lt;/div&gt;&lt;div&gt; fair value /&lt;/div&gt;&lt;div&gt; true value /&lt;/div&gt;&lt;div&gt; justifiable value /&lt;/div&gt;&lt;div&gt; intrinsic value /&lt;/div&gt;&lt;div&gt; maximum price payable per share&lt;/div&gt;&lt;br&gt;D = expected Dividend per share" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1660" y="260" width="200" height="170" as="geometry" />
@@ -142,7 +142,7 @@
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-43" value="&lt;u&gt;&lt;b&gt;Assumptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;1. Cos as expected to have\ Infinite life&lt;/div&gt;2.&amp;nbsp; Growth(`g`) rate is constant&lt;br&gt;&lt;div&gt;3. `K_e` is constant&lt;/div&gt;&lt;div&gt;4. `K_e &amp;gt; g`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="380" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-45" value="`P_0 = D/(K_e - g)`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-45" value="`P_0 = (D_0(1+g))/K_e`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-47" target="FfrZzuDR7c2tN7gIPPPY-48" edge="1">
