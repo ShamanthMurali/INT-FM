@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T20:17:03.067Z" agent="5.0 (X11)" etag="d4eKR9SX59f-jiD4xyEV" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-02T20:19:32.644Z" agent="5.0 (X11)" etag="1BUWq1yeS8ovNM_Afz9T" version="15.4.1" type="github">
   <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
     <mxGraphModel dx="3658" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -46,31 +46,31 @@
         <mxCell id="fYGMT4JVDmkjtTubi5wR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-8" target="fYGMT4JVDmkjtTubi5wR-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-8" value="Gordons and dodd model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-8" value="Gordons and dodd model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-9" target="FfrZzuDR7c2tN7gIPPPY-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-9" value="Gordon&#39;s model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-9" value="Gordon&#39;s model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="35" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-10" target="fYGMT4JVDmkjtTubi5wR-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-10" value="Walters model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-10" value="Walters model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-285" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-14" target="fYGMT4JVDmkjtTubi5wR-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-14" value="MM approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-14" value="MM approach" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="562.5" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-16" target="fYGMT4JVDmkjtTubi5wR-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-16" value="lintners approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-16" value="lintners approach" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1290" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-17" target="fYGMT4JVDmkjtTubi5wR-38" edge="1">
@@ -133,7 +133,7 @@
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-42" target="FfrZzuDR7c2tN7gIPPPY-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-42" value="&lt;div&gt;Constant Growth model&lt;/div&gt;&lt;div&gt;Gordons formula&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FfrZzuDR7c2tN7gIPPPY-42" value="&lt;div&gt;Constant Growth model&lt;/div&gt;&lt;div&gt;Gordons formula&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="15" y="300" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-43" target="FfrZzuDR7c2tN7gIPPPY-45" edge="1">
@@ -279,7 +279,7 @@
         <mxCell id="fYGMT4JVDmkjtTubi5wR-50" value="&lt;div&gt;lintners approach is based on series of interviews which he conducted with finance managers his findings were &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. every cos has target payout ratio, in a particular year a cos might deviate from the target but in the long run it would like to maintain the same&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. managers are not bothered with dividend per share but are bothered with changing in dividend per share. a manager may not hesitate to pay divident of rs 5 in current year if last year dividend was rs 5 but he would be reluctant to dividend of rs. 10 if his last year dividend was rs 5. beacause of the inherent fear that he may not be able to maintain this level of dividend&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; managers like to smooth dividends i.e even though earning of the cos is fluctuating the managers would like to follow a smooth path &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="300" width="380" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="fYGMT4JVDmkjtTubi5wR-52" value="CY DPS = Last year DPS + {(CY EPS * Target payout) - LY DPS} * Adjustment factor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fYGMT4JVDmkjtTubi5wR-52" value="CY DPS = Last year DPS + {(CY EPS * Target payout) - LY DPS} * Adjustment factor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1115" y="590" width="470" height="40" as="geometry" />
         </mxCell>
       </root>
