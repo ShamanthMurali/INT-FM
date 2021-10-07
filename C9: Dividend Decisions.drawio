@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T20:19:32.644Z" agent="5.0 (X11)" etag="1BUWq1yeS8ovNM_Afz9T" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T08:41:20.549Z" agent="5.0 (X11)" etag="1n2VfFYmS14pBUxqfzP5" version="15.4.3" type="github">
   <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
-    <mxGraphModel dx="3658" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5320" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,6 +281,24 @@
         </mxCell>
         <mxCell id="fYGMT4JVDmkjtTubi5wR-52" value="CY DPS = Last year DPS + {(CY EPS * Target payout) - LY DPS} * Adjustment factor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1115" y="590" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Eohqc9WIOMr3h6bqns-1" value="D1G KeGiye" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Eohqc9WIOMr3h6bqns-2" value="D1G KeGiye" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="590" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Eohqc9WIOMr3h6bqns-3" value="Walter Disney DEED return keye " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="560" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Eohqc9WIOMr3h6bqns-4" value="MEDitation 3 times" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="550" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Eohqc9WIOMr3h6bqns-5" value="anna 1 DP Kodi" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Eohqc9WIOMr3h6bqns-6" value="ninedu + evathindu adjust madi kodi" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="650" width="205" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
