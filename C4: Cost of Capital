@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T16:55:58.803Z" agent="5.0 (X11)" etag="ffiJEcKHumlcUTLwkgJO" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T16:56:45.999Z" agent="5.0 (X11)" etag="52IrOWkq4MmBXujTSla_" version="15.7.0" type="github">
   <diagram id="0Wpl8S5tjhMSlt19PMPD" name="Page-1">
     <mxGraphModel dx="2808" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -264,6 +264,9 @@
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-100" value="`K_d = (\text{interest P.a})/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="455" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5CJRY-xOZPhFXems7w8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KYDJPtczlA5p-imtOKEG-103" target="x5CJRY-xOZPhFXems7w8-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDJPtczlA5p-imtOKEG-103" value="`K_d = (\text{interest P.a} (1-t))/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1974.25" y="455" width="235.75" height="60" as="geometry" />
@@ -740,6 +743,9 @@
         </mxCell>
         <mxCell id="eUhQYmq5Vvy5Yw2OptzB-10" value="&lt;div&gt;`R_f` = return from risk free investment(bank FD)&lt;/div&gt;&lt;div&gt;`R_m` = Returns from market i.e the rate of index (SENSEX or NIFTY)&lt;/div&gt;&lt;div&gt;`beta` = is the measure of risk&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="320" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x5CJRY-xOZPhFXems7w8-14" value="This formula will be used from calculation while calculating WACC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2032.13" y="540" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
