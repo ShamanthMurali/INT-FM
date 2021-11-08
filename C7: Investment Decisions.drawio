@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T13:21:04.478Z" agent="5.0 (X11)" etag="83S9-nTQAHBRxk0UK78i" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T19:23:40.776Z" agent="5.0 (X11)" etag="ay0bEpBS4uLPsvhel_qt" version="15.7.0" type="github">
   <diagram id="AE9PCFAKZsRjW13e8YS1" name="Page-1">
-    <mxGraphModel dx="4340" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3004" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-3" value="&lt;div&gt;Internal rate of return&lt;/div&gt;&lt;div&gt;(IRR)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WOEc9wzTQLAKhRZPl8h4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Flp0xYkeOaXPbPinkIUJ-4" target="WOEc9wzTQLAKhRZPl8h4-4">
+        <mxCell id="WOEc9wzTQLAKhRZPl8h4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Flp0xYkeOaXPbPinkIUJ-4" target="WOEc9wzTQLAKhRZPl8h4-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-4" value="&lt;div&gt;&amp;nbsp;Modified Internal rate of return&lt;/div&gt;&lt;div&gt;(MIRR)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -672,17 +672,26 @@
         <mxCell id="dy76gQKQW4XE0QMH06Xm-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://imgur.com/7QV9LcX.png;" parent="1" vertex="1">
           <mxGeometry x="1020" y="710" width="520" height="304" as="geometry" />
         </mxCell>
-        <mxCell id="WOEc9wzTQLAKhRZPl8h4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WOEc9wzTQLAKhRZPl8h4-1" target="WOEc9wzTQLAKhRZPl8h4-2">
+        <mxCell id="WOEc9wzTQLAKhRZPl8h4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WOEc9wzTQLAKhRZPl8h4-1" target="WOEc9wzTQLAKhRZPl8h4-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WOEc9wzTQLAKhRZPl8h4-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://imgur.com/zdBKjZI.png;" vertex="1" parent="1">
+        <mxCell id="WOEc9wzTQLAKhRZPl8h4-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://imgur.com/zdBKjZI.png;" parent="1" vertex="1">
           <mxGeometry x="819.79" y="1540" width="275.29" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="WOEc9wzTQLAKhRZPl8h4-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://imgur.com/4VBChyN.png;" vertex="1" parent="1">
+        <mxCell id="WOEc9wzTQLAKhRZPl8h4-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://imgur.com/4VBChyN.png;" parent="1" vertex="1">
           <mxGeometry x="766.73" y="1740" width="381.41" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="WOEc9wzTQLAKhRZPl8h4-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://imgur.com/V8q9k97.png;" vertex="1" parent="1">
+        <mxCell id="WOEc9wzTQLAKhRZPl8h4-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://imgur.com/V8q9k97.png;" parent="1" vertex="1">
           <mxGeometry x="1494.99" y="156" width="325.3" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="aEp5wtJcAsdOLhNKhCgw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aEp5wtJcAsdOLhNKhCgw-1" target="aEp5wtJcAsdOLhNKhCgw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEp5wtJcAsdOLhNKhCgw-1" value="Calculation of PVF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="82" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aEp5wtJcAsdOLhNKhCgw-2" value="&lt;div&gt;on calculator do &lt;br&gt;&lt;/div&gt;&lt;div&gt;1 `divide` `1 + 0.K_e` &lt;br&gt;&lt;/div&gt;&lt;div&gt;Press `xx` Twice&lt;/div&gt;&lt;div&gt;then =, =, = ...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="140" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
