@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T06:53:17.395Z" agent="5.0 (Windows)" etag="vcNMjCCAbv9eSEnC2RGl" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T18:42:42.234Z" agent="5.0 (X11)" etag="InTFovmVKjAvoYFvsLIQ" version="15.7.0" type="github">
   <diagram id="TvLclYg_FD9TWmFOmzQr" name="Page-1">
     <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         <mxCell id="oDMhrl-GPviXtYCBzw35-20" value="When there is preference dividend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="617.5" y="490" width="215" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IekTX79TwyaxdZ4eq8a1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDMhrl-GPviXtYCBzw35-21" target="IekTX79TwyaxdZ4eq8a1-1">
+        <mxCell id="IekTX79TwyaxdZ4eq8a1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oDMhrl-GPviXtYCBzw35-21" target="IekTX79TwyaxdZ4eq8a1-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1010" y="500" />
@@ -129,20 +129,23 @@
         <mxCell id="uC5I3EN9XPSL1oSYWs7c-13" value="&lt;div&gt;Abb.&lt;/div&gt;&lt;div&gt;ROI = return on investment&lt;/div&gt;&lt;div&gt;`ROI=\text{EAT-preference dividend}/\text{capital employed}`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="1155" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IekTX79TwyaxdZ4eq8a1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IekTX79TwyaxdZ4eq8a1-1" target="IekTX79TwyaxdZ4eq8a1-3">
+        <mxCell id="IekTX79TwyaxdZ4eq8a1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IekTX79TwyaxdZ4eq8a1-1" target="IekTX79TwyaxdZ4eq8a1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IekTX79TwyaxdZ4eq8a1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IekTX79TwyaxdZ4eq8a1-1" target="IekTX79TwyaxdZ4eq8a1-4">
+        <mxCell id="IekTX79TwyaxdZ4eq8a1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IekTX79TwyaxdZ4eq8a1-1" target="IekTX79TwyaxdZ4eq8a1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IekTX79TwyaxdZ4eq8a1-1" value="Pre-tax and post tax items " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IekTX79TwyaxdZ4eq8a1-1" value="Pre-tax and post tax items " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IekTX79TwyaxdZ4eq8a1-3" value="&lt;div&gt;Covert to post tax&lt;/div&gt;&lt;div&gt;`\text{post tax}=x * (1-t)`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IekTX79TwyaxdZ4eq8a1-3" value="&lt;div&gt;Covert to post tax&lt;/div&gt;&lt;div&gt;`\text{post tax}=x * (1-t)`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="560" width="165" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IekTX79TwyaxdZ4eq8a1-4" value="&lt;div&gt;Covert to pre tax&lt;/div&gt;&lt;div&gt;`\text{pre tax}=x / (1-t)`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IekTX79TwyaxdZ4eq8a1-4" value="&lt;div&gt;Covert to pre tax&lt;/div&gt;&lt;div&gt;`\text{pre tax}=x / (1-t)`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1315" y="560" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxNAMR83MGRQq7XQZWSu-2" value="beta is a measure of levered risk. High operating leverage&amp;nbsp; leads to high beta and visa versa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1370" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
