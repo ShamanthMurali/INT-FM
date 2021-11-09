@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T19:23:40.776Z" agent="5.0 (X11)" etag="ay0bEpBS4uLPsvhel_qt" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T16:35:04.775Z" agent="5.0 (X11)" etag="VNGTi8R28qqRuuI2a1oF" version="15.7.0" type="github">
   <diagram id="AE9PCFAKZsRjW13e8YS1" name="Page-1">
-    <mxGraphModel dx="3004" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2464" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,52 +185,72 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-46" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="60" y="820" width="160" height="240" as="geometry" />
+          <mxGeometry x="30" y="820" width="220" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-47" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Flp0xYkeOaXPbPinkIUJ-46" vertex="1">
-          <mxGeometry width="160" height="80" as="geometry" />
+          <mxGeometry width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Flp0xYkeOaXPbPinkIUJ-48" value="&lt;div&gt;Sales&lt;/div&gt;&lt;div&gt;(-) Variable cost&lt;/div&gt;&lt;div&gt;(-) Fixed cost&lt;/div&gt;&lt;div&gt;(-) Depreciation (if)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-47" vertex="1">
-          <mxGeometry width="120" height="80" as="geometry" />
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-48" value="&lt;div&gt;Sales&lt;/div&gt;&lt;div&gt;(-) Variable cost&lt;/div&gt;&lt;div&gt;(-) Fixed cost&lt;/div&gt;&lt;div&gt;(-) Depreciation &lt;font style=&quot;font-size: 6px&quot;&gt;(only if tax is given, if tax is not given depreciation shall be ignored)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-47" vertex="1">
+          <mxGeometry width="165" height="80" as="geometry">
+            <mxRectangle width="165" height="80" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-49" value="&lt;div&gt;xx&lt;/div&gt;&lt;div&gt;(xx)&lt;/div&gt;&lt;div&gt;(xx)&lt;/div&gt;&lt;div&gt;(xx)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-47" vertex="1">
-          <mxGeometry x="120" width="40" height="80" as="geometry" />
+          <mxGeometry x="165" width="55" height="80" as="geometry">
+            <mxRectangle width="55" height="80" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-50" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Flp0xYkeOaXPbPinkIUJ-46" vertex="1">
-          <mxGeometry y="80" width="160" height="40" as="geometry" />
+          <mxGeometry y="80" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-51" value="PBT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-50" vertex="1">
-          <mxGeometry width="120" height="40" as="geometry" />
+          <mxGeometry width="165" height="40" as="geometry">
+            <mxRectangle width="165" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-52" value="xxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-50" vertex="1">
-          <mxGeometry x="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="165" width="55" height="40" as="geometry">
+            <mxRectangle width="55" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Flp0xYkeOaXPbPinkIUJ-46" vertex="1">
-          <mxGeometry y="120" width="160" height="40" as="geometry" />
+          <mxGeometry y="120" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-54" value="(-) Tax @ x%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-53" vertex="1">
-          <mxGeometry width="120" height="40" as="geometry" />
+          <mxGeometry width="165" height="40" as="geometry">
+            <mxRectangle width="165" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-55" value="(xx)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-53" vertex="1">
-          <mxGeometry x="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="165" width="55" height="40" as="geometry">
+            <mxRectangle width="55" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-56" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Flp0xYkeOaXPbPinkIUJ-46" vertex="1">
-          <mxGeometry y="160" width="160" height="40" as="geometry" />
+          <mxGeometry y="160" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Flp0xYkeOaXPbPinkIUJ-57" value="(+) depreciation (if)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-56" vertex="1">
-          <mxGeometry width="120" height="40" as="geometry" />
+        <mxCell id="Flp0xYkeOaXPbPinkIUJ-57" value="(+) depreciation &lt;font style=&quot;font-size: 6px&quot;&gt;(only if tax is given, if tax is not given depreciation shall be ignored)&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-56" vertex="1">
+          <mxGeometry width="165" height="40" as="geometry">
+            <mxRectangle width="165" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-58" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-56" vertex="1">
-          <mxGeometry x="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="165" width="55" height="40" as="geometry">
+            <mxRectangle width="55" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-59" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Flp0xYkeOaXPbPinkIUJ-46" vertex="1">
-          <mxGeometry y="200" width="160" height="40" as="geometry" />
+          <mxGeometry y="200" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-60" value="PAT / Cash Inflow P.a" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-59" vertex="1">
-          <mxGeometry width="120" height="40" as="geometry" />
+          <mxGeometry width="165" height="40" as="geometry">
+            <mxRectangle width="165" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-61" value="YYY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="Flp0xYkeOaXPbPinkIUJ-59" vertex="1">
-          <mxGeometry x="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="165" width="55" height="40" as="geometry">
+            <mxRectangle width="55" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Flp0xYkeOaXPbPinkIUJ-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Flp0xYkeOaXPbPinkIUJ-64" target="Flp0xYkeOaXPbPinkIUJ-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -684,13 +704,13 @@
         <mxCell id="WOEc9wzTQLAKhRZPl8h4-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://imgur.com/V8q9k97.png;" parent="1" vertex="1">
           <mxGeometry x="1494.99" y="156" width="325.3" height="274" as="geometry" />
         </mxCell>
-        <mxCell id="aEp5wtJcAsdOLhNKhCgw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aEp5wtJcAsdOLhNKhCgw-1" target="aEp5wtJcAsdOLhNKhCgw-2">
+        <mxCell id="aEp5wtJcAsdOLhNKhCgw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aEp5wtJcAsdOLhNKhCgw-1" target="aEp5wtJcAsdOLhNKhCgw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aEp5wtJcAsdOLhNKhCgw-1" value="Calculation of PVF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aEp5wtJcAsdOLhNKhCgw-1" value="Calculation of PVF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="82" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aEp5wtJcAsdOLhNKhCgw-2" value="&lt;div&gt;on calculator do &lt;br&gt;&lt;/div&gt;&lt;div&gt;1 `divide` `1 + 0.K_e` &lt;br&gt;&lt;/div&gt;&lt;div&gt;Press `xx` Twice&lt;/div&gt;&lt;div&gt;then =, =, = ...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aEp5wtJcAsdOLhNKhCgw-2" value="&lt;div&gt;on calculator do &lt;br&gt;&lt;/div&gt;&lt;div&gt;1 `divide` `1 + 0.K_e` &lt;br&gt;&lt;/div&gt;&lt;div&gt;Press `xx` Twice&lt;/div&gt;&lt;div&gt;then =, =, = ...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="140" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
