@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T18:08:53.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="k8Ys6h_OOX1QeYPOZDbD" version="15.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T18:09:52.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="Ihr8DTfFzafwiEe6AeJO" version="15.8.5" type="github">
   <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
-    <mxGraphModel dx="3473" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6133" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-17" value="residual approach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FfrZzuDR7c2tN7gIPPPY-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FfrZzuDR7c2tN7gIPPPY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FfrZzuDR7c2tN7gIPPPY-21" target="FfrZzuDR7c2tN7gIPPPY-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
