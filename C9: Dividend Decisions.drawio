@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T18:09:52.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="Ihr8DTfFzafwiEe6AeJO" version="15.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T02:38:07.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="22G_9KoQbh45vAc9UhFW" version="15.8.5" type="github">
   <diagram id="XQYA79I7B0DH-fnYUFBf" name="Page-1">
-    <mxGraphModel dx="6133" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6161" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,7 +300,7 @@
         <mxCell id="Y9Eohqc9WIOMr3h6bqns-6" value="ninedu + (evathindu - nenedu adjust madi kodi)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1247.5" y="650" width="205" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ijnW6POlPNUhUQiDeoP7-4" value="When question asks for &lt;b&gt;&lt;u&gt;optimum pay out ratio&lt;/u&gt;&lt;/b&gt; take D as 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ijnW6POlPNUhUQiDeoP7-4" value="When question asks for &lt;b&gt;&lt;u&gt;optimum pay out ratio&lt;/u&gt;&lt;/b&gt; take &#39;D&#39; as &#39;0&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="770" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
