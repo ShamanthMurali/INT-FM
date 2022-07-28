@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T18:42:42.234Z" agent="5.0 (X11)" etag="InTFovmVKjAvoYFvsLIQ" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T02:07:16.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="P8KMVpawsfLNIg0WfOp3" version="20.2.2" type="github">
   <diagram id="TvLclYg_FD9TWmFOmzQr" name="Page-1">
-    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1108" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
         <mxCell id="oDMhrl-GPviXtYCBzw35-23" value="Combined leverge" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oDMhrl-GPviXtYCBzw35-27" value="`\text{Combined leverage} = (\text{% change in EPS/EAT/EBT})/(\text{% change in EBIT})`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oDMhrl-GPviXtYCBzw35-27" value="`\text{Combined leverage} = (\text{% change in EPS/EAT/EBT})/(\text{% change in Sales})`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="740" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uC5I3EN9XPSL1oSYWs7c-1" value="`\text{Combined leverage} = (\text{Contribution})/(\text{EBT})`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -144,7 +144,7 @@
         <mxCell id="IekTX79TwyaxdZ4eq8a1-4" value="&lt;div&gt;Covert to pre tax&lt;/div&gt;&lt;div&gt;`\text{pre tax}=x / (1-t)`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1315" y="560" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wxNAMR83MGRQq7XQZWSu-2" value="beta is a measure of levered risk. High operating leverage&amp;nbsp; leads to high beta and visa versa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wxNAMR83MGRQq7XQZWSu-2" value="beta is a measure of levered risk. High operating leverage&amp;nbsp; leads to high beta and visa versa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1370" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
